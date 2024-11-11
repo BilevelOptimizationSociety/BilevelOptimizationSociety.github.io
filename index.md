@@ -13,3 +13,27 @@ Bilevel optimization is a field of mathematical optimization that focuses on pro
 #### ICBO
 
 The International Conference on Bilevel Optimization (ICBO) 
+
+### Organization
+
+The Bilevel Optimization Society (BOS) acts in accordance with its bylaws.
+
+In the following months, we will be ruling the first board 
+
+### Memebership
+
+Regarding the membership of the society:
+
+- A person becomes a BOS member by completing and submitting a membership form
+prescribed by COBOS. Membership of the MOS is not a prerequisite for membership
+of the BOS.
+
+- Membership to BOS has to be renewed by the 31st of December of the calendar year
+of the most recent edition of ICBO. Membership lapses if a member fails to complete
+and submit the membership form by this deadline.
+
+- A member can request removal from the membership roster by a request to the Secretary.
+
+### Contact 
+
+
