@@ -1,10 +1,8 @@
 ## Welcome to the new Web site of the Bilevel Optimization Society!
 
-
 #### About
 
-The Bilevel Optimization Society (BOS) is a (forthcoming) section of the Mathematical Optimization Society  (MOS) that promotes the the dissemination and promotion
-of research and information related to bilevel optimization and the organization of events  within it. In particular, it organizes the International Conference on Bilevel Optimization (ICBO).
+The Bilevel Optimization Society (BOS) is a (forthcoming) section of the Mathematical Optimization Society  (MOS) that promotes the the dissemination and promotion of research and information related to bilevel optimization and the organization of events  within it. In particular, it organizes the International Conference on Bilevel Optimization (ICBO).
 
 #### What is bilevel optimization?
 
@@ -16,9 +14,9 @@ The International Conference on Bilevel Optimization (ICBO)
 
 ### Organization
 
-The Bilevel Optimization Society (BOS) acts in accordance with its bylaws.
+The Bilevel Optimization Society (BOS) acts in accordance with its [bylaws](https://github.com/BilevelOptimizationSociety/BilevelOptimizationSociety.github.io/blob/gh-pages/BOS_bylaws.pdf).
 
-In the following months, we will be ruling the first board 
+In the following months, we will be ruling the first election board. Stay tuned.
 
 ### Memebership
 
