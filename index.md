@@ -6,9 +6,9 @@ BOS as a technical section of the Mathematical Optimization Society ([MOS](https
 
 The goal of the BOS is to create and maintain a community of researchers that recognize their work as related to bilevel optimization, while at the same time expanding its basis and promoting its outreach within and outside academia. This is achieved through the organization of (i) the International Conference on Bilevel Optimization (ICBO) series and (ii) the dissemination and promotion of research and information related to bilevel optimization.
 
-#### What is bilevel optimization?
+#### What is Bilevel Optimization?
 
-Bilevel optimization is a field of mathematical optimization that focuses on problems incorporating other optimization problems as constraints. It has been successfully applied to model hierarchical decision-making across various domains, including economics, security, transportation, power systems, machine learning, and pricing, among others.
+Bilevel optimization is a field of mathematical optimization that focuses on problems incorporating other optimization problems as constraints. It has been successfully applied to model hierarchical decision-making processes across various domains, including economics, security, transportation, power systems, machine learning, and pricing, etc.
 
 #### The International Conference on Bilevel Optimization (ICBO)
 
