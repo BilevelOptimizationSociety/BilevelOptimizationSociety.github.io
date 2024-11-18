@@ -2,7 +2,9 @@
 
 #### About
 
-The Bilevel Optimization Society (BOS) is a (forthcoming) section of the Mathematical Optimization Society  (MOS) that promotes the the dissemination and promotion of research and information related to bilevel optimization and the organization of events  within it. In particular, it organizes the International Conference on Bilevel Optimization (ICBO).
+BOS as a technical section of the Mathematical Optimization Society ([MOS](https://www.mathopt.org)).
+
+The goal of the BOS is to create and maintain a community of researchers that recognize their work as related to bilevel optimization, while at the same time expanding its basis and promoting its outreach within and outside academia. This is achieved through the organization of (i) the International Conference on Bilevel Optimization (ICBO) series and (ii) the dissemination and promotion of research and information related to bilevel optimization.
 
 #### What is bilevel optimization?
 
