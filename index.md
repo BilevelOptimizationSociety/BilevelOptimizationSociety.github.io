@@ -18,7 +18,7 @@ The [last ICBO](https://www.bilevelconference2023.org) took place in 2023 (i.e.,
 
 ### Organization
 
-The BOS acts in accordance with its [bylaws](https://github.com/BilevelOptimizationSociety/BilevelOptimizationSociety.github.io/blob/gh-pages/bos-bylaws.pdf).
+The BOS acts in accordance with its [bylaws](https://raw.githubusercontent.com/BilevelOptimizationSociety/BilevelOptimizationSociety.github.io/refs/heads/gh-pages/bos-bylaws.pdf).
 
 It's founding committe consists of 
 - Luce Brotcorne (Inria, Lille, France),
