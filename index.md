@@ -14,8 +14,6 @@ Bilevel optimization is a field of mathematical optimization that focuses on pro
 
 The ICBO is a bi-annual conference on bilevel optimization with the goal to highlight recent advances and trends in the field. The conferences will usually consist of a set of invited plenary speakers as well as of sessions of contributed talks. Its aim is to bring together junior and senior researchers in the field of bilevel optimization as well as practitioners using bilevel optimization.
 
-The [last ICBO](https://www.bilevelconference2023.org) took place in 2023 (i.e., before setting up the BOS) at the University of Southampton, UK.
-
 ### Organization
 
 The BOS acts in accordance with its [bylaws](https://raw.githubusercontent.com/BilevelOptimizationSociety/BilevelOptimizationSociety.github.io/refs/heads/gh-pages/bos-bylaws.pdf).
