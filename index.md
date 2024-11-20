@@ -44,6 +44,8 @@ The advisory board in the process of creating BOS is made of the following peopl
 - Membership to BOS has to be renewed by the 31st of December of the calendar year of the most recent edition of ICBO. Membership lapses if a member fails to complete and submit the membership form by this deadline.
 - A member can request removal from the membership roster by a request to the Secretary.
 
+You can become a member by filling [this form](https://forms.office.com/e/xa7m37UDcJ).
+
 ### Contact 
 
 If you have any questions, please do not hesitate to contact the current founding chair of BOS, Alain Zemkoho, via [E-Mail](mailto:A.B.Zemkoho@soton.ac.uk).
