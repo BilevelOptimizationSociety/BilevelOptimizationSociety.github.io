@@ -18,18 +18,24 @@ The ICBO is a bi-annual conference on bilevel optimization with the goal to high
 
 The BOS acts in accordance with its [bylaws](https://raw.githubusercontent.com/BilevelOptimizationSociety/BilevelOptimizationSociety.github.io/refs/heads/gh-pages/bos-bylaws.pdf).
 
-It's founding committe consists of 
+
+Since January 2025, we have our first Commitee of the Bilevel Optimization Society (COBOS). The first COBOS consists of:
+
+- Chair: Alain Zemkoho (University of Southampton, UK),
+- Secretary: Johannes Thuerauf (University of Nuremberg, Germany),
+- Treasurer: Margarida Carvalho (Université de Montréal, Canada),
+- Webmaster: Victor Bucarey Lopez (Universidad de O'Higgins, Chile).
+
+We are grateful of the founding committee:
 - Luce Brotcorne (Inria, Lille, France),
 - Victor Bucarey Lopez (Universidad de O'Higgins, Chile),
 - Margarida Carvalho (Université de Montréal, Canada),
 - Ted Ralphs (Lehigh University, USA),
 - Martin Schmidt (Universität  Trier, Germany),
 - Alain Zemkoho (University of Southampton, UK), as the Chair,
-- Jin Zhang (Southern University of Science and Technology, China).
+- Jin Zhang (Southern University of Science and Technology, China), 
 
-This committee is right now organizing the elections for the first committee of the BOS (COBOS). Stay tuned!
-
-The advisory board in the process of creating BOS is made of the following people:
+and the advisory board in the process of creating BOS which was made of the following people:
 - Miguel Anjos (University of Edinburgh, UK)
 - Didier Aussel (Université de Perpignan, France)
 - José-Fernando Camacho-Vallejo (Tecnologico de Monterrey, Mexico)
@@ -48,5 +54,5 @@ You can become a member by filling [this form](https://forms.office.com/e/xa7m37
 
 ### Contact 
 
-If you have any questions, please do not hesitate to contact the current founding chair of BOS, Alain Zemkoho, via [E-Mail](mailto:A.B.Zemkoho@soton.ac.uk).
+If you have any questions, please do not hesitate to contact the current chair of BOS, Alain Zemkoho, via [E-Mail](mailto:A.B.Zemkoho@soton.ac.uk).
 
