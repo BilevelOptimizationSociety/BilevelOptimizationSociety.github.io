@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-03-23T22:16:21-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Welcome to the website of the BOS!</title><entry><title type="html">The BOS and its first COBOS!</title><link href="http://localhost:4000/blog/2024/welcome/" rel="alternate" type="text/html" title="The BOS and its first COBOS!" /><published>2024-12-31T22:59:00-03:00</published><updated>2024-12-31T22:59:00-03:00</updated><id>http://localhost:4000/blog/2024/welcome</id><content type="html" xml:base="http://localhost:4000/blog/2024/welcome/"><![CDATA[<p>Welcome to Bilevel Optimization Society webpage. After the acceptance of the creation from the Mathematical Optimization Society (MOS) in December we ran our first elections, and since January 2025, the BOS is officially running!</p>
+
+<p>The Bilevel Optimization Society acts in accordance with its bylaws, and you can check them in the following link.</p>
+
+<p>Since January 2025, we have our first Committee of the Bilevel Optimization Society (COBOS). The first COBOS consists of:</p>
+
+<ul>
+  <li><strong>Chair:</strong> Alain Zemkoho (University of Southampton, UK)</li>
+  <li><strong>Secretary:</strong> Johannes Thuerauf (University of Nuremberg, Germany)</li>
+  <li><strong>Treasurer:</strong> Margarida Carvalho (Université de Montréal, Canada)</li>
+  <li><strong>Webmaster:</strong> Victor Bucarey Lopez (Universidad de O’Higgins, Chile)</li>
+</ul>
+
+<p>We are grateful to the founding committee:</p>
+
+<ul>
+  <li>Luce Brotcorne (Inria, Lille, France)</li>
+  <li>Victor Bucarey Lopez (Universidad de O’Higgins, Chile)</li>
+  <li>Margarida Carvalho (Université de Montréal, Canada)</li>
+  <li>Ted Ralphs (Lehigh University, USA)</li>
+  <li>Martin Schmidt (Universität Trier, Germany)</li>
+  <li>Alain Zemkoho (University of Southampton, UK), as the Chair</li>
+  <li>Jin Zhang (Southern University of Science and Technology, China)</li>
+</ul>
+
+<p>We also acknowledge the advisory board in the process of creating BOS, which was made up of the following people:</p>
+
+<ul>
+  <li>Miguel Anjos (University of Edinburgh, UK)</li>
+  <li>Didier Aussel (Université de Perpignan, France)</li>
+  <li>José-Fernando Camacho-Vallejo (Tecnologico de Monterrey, Mexico)</li>
+  <li>Carmen Galé (Universidad de Zaragoza, Spain)</li>
+  <li>Martine Labbé (Université Libre de Bruxelles, Belgium)</li>
+  <li>Fernando Ordonez (Universidad de Chile, Santiago, Chile)</li>
+</ul>
+
+<p>Stay tuned for the news !</p>]]></content><author><name></name></author><category term="information-post" /><summary type="html"><![CDATA[this is what included image galleries could look like]]></summary></entry></feed>
