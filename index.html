@@ -49,7 +49,35 @@
 
 <!-- Styles -->
 
+<style>
+.h1, h1 {
+  font-size: 2.3rem;
+}
 
+.h2, h2 {
+  font-size: 1.8rem;
+}
+
+.h3, h3 {
+  font-size: 1.6rem;
+}
+
+.list-group-item.active {
+  z-index: 2;
+  color: #2400ff;
+  background-color: rgba(160,178,234,0.16);
+  border-color: #007bff;
+}
+
+#navbar { 
+display:none; 
+}
+@media screen and (max-width: 575.9px) {
+#navbar { 
+display:block; }
+}
+	
+</style>
 
 
   <link rel="shortcut icon" href="/assets/img/icon.png?422466d79489b01f1429084fc6d7e54f">
@@ -80,8 +108,8 @@
   <body class="fixed-top-nav ">
     <!-- Header -->
     <header>
-  <!-- Nav Bar -->
-  <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top" role="navigation">
+	<!-- Nav Bar -->
+  <nav id="navbar" class="navbar navbar-light fixed-top navbar-expand-sm" role="navigation">
     <div class="container">
       
       <!-- Navbar Toggle -->
@@ -92,12 +120,12 @@
         <span class="icon-bar bottom-bar"></span>
       </button>
 
-      <div class="collapse navbar-collapse text-right" id="navbarNav">
+      <div class="collapse navbar-collapse text-right" id="navbarNav">		  
         <ul class="navbar-nav ml-auto flex-nowrap">
           
 
           <!-- About -->
-          <li class="nav-item active">
+          <li class="nav-item active d-sm-none">
             <a class="nav-link" href="/">The BOS
               
                 <span class="sr-only">(current)</span>
@@ -129,9 +157,11 @@
             
           
             
+          
+            
               
                 
-                <li class="nav-item ">
+                <li class="nav-item d-sm-none">
                   <a class="nav-link" href="/cobos/">Organization
                     
                   </a>
@@ -142,7 +172,7 @@
             
               
                 
-                <li class="nav-item ">
+                <li class="nav-item d-sm-none">
                   <a class="nav-link" href="/membership/">Membership
                     
                   </a>
@@ -153,26 +183,20 @@
             
               
                 
-                <li class="nav-item ">
+                <li class="nav-item d-sm-none">
                   <a class="nav-link" href="/icbo">ICBO
                     
                   </a>
                 </li>
-              
-            
-          
-            
-          
           
             <!-- Search -->
-            <li class="nav-item">
+            <li class="nav-item d-sm-none">
               <button id="search-toggle" title="Search" onclick="openSearchModal()">
                 <span class="nav-link">ctrl k <i class="ti ti-search"></i></span>
               </button>
             </li>
-          
-          
-            <!-- Toogle theme mode -->
+
+			<!-- Toogle theme mode -->
             <li class="toggle-container">
               <button id="light-toggle" title="Change theme">
                 <i class="ti ti-sun-moon" id="light-toggle-system"></i>
@@ -180,199 +204,200 @@
                 <i class="ti ti-sun-filled" id="light-toggle-light"></i>
               </button>
             </li>
-          
+			
         </ul>
       </div>
     </div>
   </nav>
-  
-    <!-- Scrolling Progress Bar -->
-    <progress id="progress" value="0">
-      <div class="progress-container">
-        <span class="progress-bar"></span>
-      </div>
-    </progress>
-  
 </header>
 
 
     <!-- Content -->
-    <div class="container mt-5" role="main">
+    <div class="container mt-0" role="main">
+	
+	<div class="row">
+		<div class="col-sm-4">
+			<div class="sticky-top">
+			 <figure>
+			  <picture>
+				<!-- Auto scaling with imagemagick -->
+				<!--
+				  See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+				  https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+				-->
+				
+				  <source class="responsive-img-srcset" srcset="/assets/img/prof_pic.png 480w,/assets/img/prof_pic.png 800w,/assets/img/prof_pic.png 1400w," type="image/webp" sizes="(min-width: 930px) 270.0px, (min-width: 576px)
+				  30vw, 95vw">
+				
+			  <img src="{{ '/assets/img/prof_pic.png' | relative_url }}" alt="Profile picture"
+				 style="background: transparent; border-radius: 0; box-shadow: none; width: 100%; height: auto;">
+
+			  
+			  </source></picture>
+
+			  
+			 </figure>
+			 <div class="row">
+				<div class="col">
+				</div>
+			 </div>
+			 <div class="list-group d-none d-sm-block">
+				  <a href="/" class="list-group-item list-group-item-action active">The BOS</a>
+				  <a href="/cobos/" class="list-group-item list-group-item-action">Organization</a>
+				  <a href="/membership/" class="list-group-item list-group-item-action">Membership</a>
+				  <a href="/icbo" class="list-group-item list-group-item-action">ICBO</a>
+				  <a class="list-group-item list-group-item-action" title="Search" onclick="openSearchModal()">
+					ctrl k <i class="ti ti-search"></i>
+				  </a>
+				</div>
+			</div>
+			
+		</div>
+		<div class="col">
+			<div class="post">
+			  <header class="post-header">
+				<h1 class="post-title">
+				  
+					Welcome to the website of the BOS!
+				  
+				</h1>
+				<p class="desc"><i> The Bilevel Optimization Society since 2025.</i></p>
+			  </header>
+
+			  <article>
+				
+				<div class="clearfix">
+			<div style="text-align: justify;">
+
+			The bilevel optimization society (BOS) is a technical section of the Mathematical Optimization Society (MOS). The goal of the BOS is to create and maintain a community of researchers that recognize their work as related to bilevel optimization, while at the same time expanding its basis and promoting its outreach within and outside academia. This is achieved through the organization of:
+			<ul>
+			<li> the International Conference on Bilevel Optimization (ICBO) series and,</li>
+
+			<li> the dissemination and promotion of research and information related to bilevel optimization.</li>
+			</ul>
+			</div>
+			</div>
+
+			<h4 id="upcoming-events">Upcoming Events</h4>
+
+			<p>This is a (non-comprehensive) list with upcoming conferences with bilevel optimization sessions:</p>
+			
+			<ul>
+			  <li>
+			<strong>Oct 06 - Oct 10, 2025</strong>:  <a href="https://www.itwm.fraunhofer.de/en/fairs_events/2025/2025_10_06_klaim_en.html" rel="external nofollow noopener" target="_blank">Kaiserslautern Applied and Industrial Mathematics Days – KLAIM 2025</a>
+			</li>
+			</ul>
+			
+			<p>If you want to promote your bilevel session in a conference, please <a href="mailto:bileveloptimizationsociety@gmail.com">email us</a>.</p>
+			</div>
+			
+
+				<!-- News -->
+				
+				  <h2>
+					  <h2> News </h2>
+				  </h2>
+				  <div class="news">
+			  
+				
+				<div class="table-responsive">
+				  <table class="table table-sm table-borderless">
+					
+					 <tr>
+						<th scope="row" style="width: 20%">May 01, 2025</th>
+						<td>
+						  
+							<h2 id="we-have-the-first-edition-of-our-newsletter">We have the first edition of our newsletter!</h2>
+
+			You can download our first newsletter. You can download it <a href="../assets/newsletter/01_BOS_Newsletter_May2025.pdf" target="_blank">here</a>.
+
+						  
+						</td>
+					  </tr>
+
+					
+					  <tr>
+						<th scope="row" style="width: 20%">Mar 21, 2025</th>
+						<td>
+						  
+							<h2 id="call-for-nominations-of-chair-elect-"><a href="/icbo">Call for nominations of Chair-Elect !</a></h2>
+
+			Call for Nominations for the position of Chair-Elect of the Committee of the Bilevel Optimization Society (COBOS)
+
+						  
+						</td>
+					  </tr>
+					
+					  <tr>
+						<th scope="row" style="width: 20%">Mar 09, 2025</th>
+						<td>
+						  
+							<h2 id="open-call-for-the-next-icbo-2026"><a href="/icbo">Open Call for the next ICBO 2026!</a></h2>
+
+			Check the ICBO tab for the details of the open call to host the next International Conference on Bilevel Optimization in 2026.
+
+						  
+						</td>
+					  </tr>
+					
+					  <tr>
+						<th scope="row" style="width: 20%">Mar 05, 2025</th>
+						<td>
+						  
+							We have a new webpage!
+
+						  
+						</td>
+					  </tr>
+					
+				  </table>
+				</div>
+			  
+			</div>
+
+				
+
+				<!-- Latest posts -->
+				
+				  <h2>
+					<h2> Blog </h2>
+				  </h2>
+				  <div class="news">
+			  
+				
+				<div class="table-responsive">
+				  <table class="table table-sm table-borderless">
+					
+					
+					
+					  <tr>
+						<th scope="row" style="width: 20%">Dec 31, 2024</th>
+						<td>
+						  
+							<a class="news-title" href="/blog/2024/welcome/">The BOS and its first COBOS!</a>
+						  
+						</td>
+					  </tr>
+					
+				  </table>
+				</div>
+			  
+			</div>
+
+				
+
+
+
+				<!-- Social -->
+				
+
+				
+			  </article>
+			</div>
+		</div>
+	</div>
       
-        <div class="post">
-  <header class="post-header">
-    <h1 class="post-title">
-      
-        Welcome to the website of the BOS!
-      
-    </h1>
-    <p class="desc"><i> The Bilevel Optimization Society since 2025.</i></p>
-  </header>
-
-  <article>
-    
-      <div class="profile float-right">
         
-          
-          
-          
-          
-
-
-
-<figure>
-  <picture>
-    <!-- Auto scaling with imagemagick -->
-    <!--
-      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
-      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
-    -->
-    
-      <source class="responsive-img-srcset" srcset="/assets/img/prof_pic.png 480w,/assets/img/prof_pic.png 800w,/assets/img/prof_pic.png 1400w," type="image/webp" sizes="(min-width: 930px) 270.0px, (min-width: 576px)
-      30vw, 95vw">
-    
-  <img src="{{ '/assets/img/prof_pic.png' | relative_url }}" alt="Profile picture"
-     style="background: transparent; border-radius: 0; box-shadow: none; width: 150%; height: auto;">
-
-  
-  </source></picture>
-
-  
-</figure>
-        
-        
-      </div>
-    
-
-    <div class="clearfix">
-<div style="text-align: justify;">
-
-The bilevel optimization society (BOS) is a technical section of the Mathematical Optimization Society (MOS).
-
-The goal of the BOS is to create and maintain a community of researchers that recognize their work as related to bilevel optimization, while at the same time expanding its basis and promoting its outreach within and outside academia. This is achieved through the organization of:
-<ul>
-<li> the International Conference on Bilevel Optimization (ICBO) series and,</li>
-
-<li> the dissemination and promotion of research and information related to bilevel optimization.</li>
-</ul>
-</div>
-
-<h4 id="upcoming-events">Upcoming Events</h4>
-
-<p>This is a (non-comprehensive) list with upcoming conferences with bilevel optimization sessions:</p>
-
-<ul>
-  <li>
-<strong>Oct 06 - Oct 10, 2025</strong>:  <a href="https://www.itwm.fraunhofer.de/en/fairs_events/2025/2025_10_06_klaim_en.html" rel="external nofollow noopener" target="_blank">Kaiserslautern Applied and Industrial Mathematics Days – KLAIM 2025</a>
-</li>
-</ul>
-
-<p>If you want to promote your bilevel session in a conference, please <a href="mailto:bileveloptimizationsociety@gmail.com">email us</a>.</p>
-</div>
-
-    <!-- News -->
-    
-      <h4>
-          <h4> News </h4>
-      </h4>
-      <div class="news">
-  
-    
-    <div class="table-responsive" style="max-height: 60vw">
-      <table class="table table-sm table-borderless">
-        
-        
-        
-          <tr>
-            <th scope="row" style="width: 20%">May 01, 2025</th>
-            <td>
-              
-                <h5 id="we-have-the-first-edition-of-our-newsletter">We have the first edition of our newsletter!</h5>
-
-<p>You can download our first newsletter. You can download it <a href="../assets/newsletter/01_BOS_Newsletter_May2025.pdf" target="_blank">here</a>.</p>
-
-              
-            </td>
-          </tr>
-        
-          <tr>
-            <th scope="row" style="width: 20%">Mar 21, 2025</th>
-            <td>
-              
-                <h5 id="call-for-nominations-of-chair-elect-"><a href="/icbo">Call for nominations of Chair-Elect !</a></h5>
-
-<p>Call for Nominations for the position of Chair-Elect of the Committee of the Bilevel Optimization Society (COBOS)</p>
-
-              
-            </td>
-          </tr>
-        
-          <tr>
-            <th scope="row" style="width: 20%">Mar 09, 2025</th>
-            <td>
-              
-                <h5 id="open-call-for-the-next-icbo-2026"><a href="/icbo">Open Call for the next ICBO 2026!</a></h5>
-
-<p>Check the ICBO tab for the details of the open call to host the next International Conference on Bilevel Optimization in 2026.</p>
-
-              
-            </td>
-          </tr>
-        
-          <tr>
-            <th scope="row" style="width: 20%">Mar 05, 2025</th>
-            <td>
-              
-                <p>We have a new webpage!</p>
-
-              
-            </td>
-          </tr>
-        
-      </table>
-    </div>
-  
-</div>
-
-    
-
-    <!-- Latest posts -->
-    
-      <h4>
-        <h4> Blog </h4>
-      </h4>
-      <div class="news">
-  
-    
-    <div class="table-responsive">
-      <table class="table table-sm table-borderless">
-        
-        
-        
-          <tr>
-            <th scope="row" style="width: 20%">Dec 31, 2024</th>
-            <td>
-              
-                <a class="news-title" href="/blog/2024/welcome/">The BOS and its first COBOS!</a>
-              
-            </td>
-          </tr>
-        
-      </table>
-    </div>
-  
-</div>
-
-    
-
-
-
-    <!-- Social -->
-    
-
-    
-  </article>
-</div>
 
       
     </div>
@@ -383,7 +408,7 @@ The goal of the BOS is to create and maintain a community of researchers that re
     <div class="container mt-0">
       
       
-        Last updated: May 24, 2025.
+        Last updated: August 09, 2025.
       
     </div>
   </footer>
