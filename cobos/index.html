@@ -16,13 +16,11 @@
 <title>
   
   
-    
-      Organization | Welcome to the website of the BOS!
-    
+    Welcome to the website of the BOS!
   
 </title>
 <meta name="author" content="Bilevel Optimization Society">
-<meta name="description" content="Cobos and membership of the lab or group">
+<meta name="description" content="">
 
 
 
@@ -50,14 +48,39 @@
 
 
 <!-- Styles -->
+<style>
+.h1, h1 {
+  font-size: 2.3rem;
+}
 
+.h2, h2 {
+  font-size: 1.8rem;
+}
 
+.h3, h3 {
+  font-size: 1.6rem;
+}
+
+.list-group-item.active {
+  z-index: 2;
+  color: #2400ff;
+  background-color: rgba(160,178,234,0.16);
+  border-color: #007bff;
+}
+#navbar { 
+display:none; 
+}
+@media screen and (max-width: 575.9px) {
+#navbar { 
+display:block; }
+}
+</style>
 
 
   <link rel="shortcut icon" href="/assets/img/icon.png?422466d79489b01f1429084fc6d7e54f">
 
 <link rel="stylesheet" href="/assets/css/main.css?d41d8cd98f00b204e9800998ecf8427e">
-<link rel="canonical" href="http://localhost:4000/cobos/">
+<link rel="canonical" href="http://localhost:4000/">
 
 <!-- Dark Mode -->
 <script src="/assets/js/theme.js?9a0c749ec5240d9cda97bc72359a72c0"></script>
@@ -82,15 +105,9 @@
   <body class="fixed-top-nav ">
     <!-- Header -->
     <header>
-  <!-- Nav Bar -->
+	  <!-- Nav Bar -->
   <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top" role="navigation">
     <div class="container">
-      
-        <a class="navbar-brand title font-weight-lighter" href="/">
-          
-            Bilevel Optimization Society
-          
-        </a>
       
       <!-- Navbar Toggle -->
       <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -105,8 +122,10 @@
           
 
           <!-- About -->
-          <li class="nav-item ">
+          <li class="nav-item">
             <a class="nav-link" href="/">The BOS
+              
+                <span class="sr-only">(current)</span>
               
             </a>
           </li>
@@ -141,8 +160,6 @@
                 
                 <li class="nav-item active">
                   <a class="nav-link" href="/cobos/">Organization
-                    
-                      <span class="sr-only">(current)</span>
                     
                   </a>
                 </li>
@@ -182,50 +199,76 @@
             </li>
           
           
-            <!-- Toogle theme mode -->
-            <li class="toggle-container">
-              <button id="light-toggle" title="Change theme">
-                <i class="ti ti-sun-moon" id="light-toggle-system"></i>
-                <i class="ti ti-moon-filled" id="light-toggle-dark"></i>
-                <i class="ti ti-sun-filled" id="light-toggle-light"></i>
-              </button>
-            </li>
-          
         </ul>
       </div>
     </div>
   </nav>
   
-    <!-- Scrolling Progress Bar -->
-    <progress id="progress" value="0">
-      <div class="progress-container">
-        <span class="progress-bar"></span>
-      </div>
-    </progress>
-  
 </header>
 
 
     <!-- Content -->
-    <div class="container mt-5" role="main">
+    <div class="container mt-0" role="main">
+	
+	<div class="row">
+		<div class="col-sm-4">
+			<div class="sticky-top">
+			 <figure>
+			  <picture>
+				<!-- Auto scaling with imagemagick -->
+				<!--
+				  See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+				  https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+				-->
+				
+				  <source class="responsive-img-srcset" srcset="/assets/img/prof_pic.png 480w,/assets/img/prof_pic.png 800w,/assets/img/prof_pic.png 1400w," type="image/webp" sizes="(min-width: 930px) 270.0px, (min-width: 576px)
+				  30vw, 95vw">
+				
+			  <img src="{{ '/assets/img/prof_pic.png' | relative_url }}" alt="Profile picture"
+				 style="background: transparent; border-radius: 0; box-shadow: none; width: 100%; height: auto;">
+
+			  
+			  </source></picture>
+
+			  
+			 </figure>
+			 <div class="row">
+				<div class="col">
+				</div>
+			 </div>
+			 <div class="list-group d-none d-sm-block">
+				  <a href="/" class="list-group-item list-group-item-action">The BOS</a>
+				  <a href="/cobos/" class="list-group-item list-group-item-action active">Organization</a>
+				  <a href="/membership/" class="list-group-item list-group-item-action">Membership</a>
+				  <a href="/icbo" class="list-group-item list-group-item-action">ICBO</a>
+				  <a class="list-group-item list-group-item-action" title="Search" onclick="openSearchModal()">
+					ctrl k <i class="ti ti-search"></i>
+				  </a>
+				</div>
+			</div>
+			
+		</div>
+		<div class="col">
+			<p>The Bilevel Optimization Society acts in accordance with its <a href="../assets/pdf/bylaws.pdf" target="_blank">bylaws</a>.</p>
+
+			<p>Since January 2025, we have our first Committee of the Bilevel Optimization Society (COBOS). The first COBOS consists of:</p>
+
+			<ul>
+			  <li>
+			<strong>Chair:</strong> Alain Zemkoho (University of Southampton, UK)</li>
+			  <li>
+			<strong>Secretary:</strong> Johannes Thuerauf (University of Nuremberg, Germany)</li>
+			  <li>
+			<strong>Treasurer:</strong> Margarida Carvalho (Université de Montréal, Canada)</li>
+			  <li>
+			<strong>Webmaster:</strong> Victor Bucarey Lopez (Universidad de O’Higgins, Chile)</li>
+			</ul>
+
+			<p>You can contact us to <a href="mailto:bileveloptimizationsociety@gmail.com"> our email address.</a></p>
+		</div>
+	</div>
       
-        <p>The Bilevel Optimization Society acts in accordance with its <a href="../assets/pdf/bylaws.pdf" target="_blank">bylaws</a>.</p>
-
-<p>Since January 2025, we have our first Committee of the Bilevel Optimization Society (COBOS). The first COBOS consists of:</p>
-
-<ul>
-  <li>
-<strong>Chair:</strong> Alain Zemkoho (University of Southampton, UK)</li>
-  <li>
-<strong>Secretary:</strong> Johannes Thuerauf (University of Nuremberg, Germany)</li>
-  <li>
-<strong>Treasurer:</strong> Margarida Carvalho (Université de Montréal, Canada)</li>
-  <li>
-<strong>Webmaster:</strong> Victor Bucarey Lopez (Universidad de O’Higgins, Chile)</li>
-</ul>
-
-<p>You can contact us to <a href="mailto:bileveloptimizationsociety@gmail.com"> our email address.</a></p>
-
+        
 
       
     </div>
@@ -236,7 +279,7 @@
     <div class="container mt-0">
       
       
-        Last updated: May 24, 2025.
+        Last updated: August 09, 2025.
       
     </div>
   </footer>
