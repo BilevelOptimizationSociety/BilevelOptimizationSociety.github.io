@@ -33,7 +33,7 @@
       overflow: hidden;
       background-color: var(--navbar);
     }
-    
+
     .topnav a {
       float: left;
       color: #f2f2f2;
@@ -84,6 +84,67 @@
 
     .mainstyle2 a {
 	color: var(--maincolor2link);
+    }
+  </style>
+
+  <style>
+    .speakers-list {
+      margin-bottom: 2.5rem;
+    }
+
+    .speaker-card {
+      margin-bottom: 1.5rem;
+      padding: 1.5rem;
+      border: 1px solid #c9d8e8;
+      border-left: 5px solid var(--maincolor2link);
+      border-radius: 8px;
+      background: #f7fbff;
+      box-shadow: 0 2px 8px rgba(30, 68, 115, 0.08);
+    }
+
+    .speaker-card h3 {
+      margin-bottom: 0.2rem;
+    }
+
+    .speaker-card h3 a {
+      color: var(--navbar);
+    }
+
+    .speaker-affiliation {
+      margin-top: 0;
+      color: #555;
+      font-style: italic;
+    }
+
+    .talk-title {
+      margin-top: 0.8rem;
+      margin-bottom: 0.7rem;
+    }
+
+    .talk-title strong {
+      color: var(--navbar);
+    }
+
+    .speaker-card details {
+      margin-top: 0.35rem;
+    }
+
+    .speaker-card summary {
+      cursor: pointer;
+      font-weight: bold;
+      color: var(--maincolor2link);
+      display: inline-block;
+    }
+
+    .speaker-card summary:hover {
+      text-decoration: underline;
+    }
+
+    .speaker-card details p {
+      margin-top: 0.35rem;
+      margin-bottom: 0.6rem;
+      line-height: 1.55;
+      text-align: justify;
     }
   </style>
 
@@ -139,28 +200,110 @@
 
   <div class="mainstyle2">
     <div class="container">
-      <h2>Confirmed Speakers</h2>
-      <div class="row">
-        <div class="six columns">
-          <ul>
-             <li><a href="https://cs.brown.edu/people/faculty/amy.html">Amy Greenwald</a>, Brown University, US</li>
-             <li><a href="https://www.business.uc.edu/faculty-research/obais/faculty/leonardo-lozano.html">Leonardo Lozano</a>, University of Cincinnati, US</li>
-             <li><a href="https://sites.google.com/view/ssabach">Shoham Sabach</a>, Cornell University, US</li>
-          </ul>   
-	      </div>
+      <h2>Plenary Speakers</h2>
+      <div class="speakers-list">
+        <div class="speaker-card">
+          <h3><a href="https://cs.brown.edu/people/faculty/amy.html">Amy Greenwald</a></h3>
+          <p class="speaker-affiliation">Brown University, US</p>
+          <p class="talk-title"><strong>Soon more information.</strong></p>
+        </div>
+
+        <div class="speaker-card">
+          <h3><a href="https://www.business.uc.edu/faculty-research/obais/faculty/leonardo-lozano.html">Leonardo Lozano</a></h3>
+          <p class="speaker-affiliation">University of Cincinnati, US</p>
+
+          <p class="talk-title">
+            <strong>Title:</strong> Decision diagram-based approaches for linear discrete bilevel programming
+          </p>
+
+          <details>
+            <summary>Abstract</summary>
+            <p>
+              Integer bilevel programming problems are known to be very challenging due to the
+              lack of strong relaxations that can be efficiently computed. We propose single-level
+              representations of integer bilevel programming problems that rely on network
+              flow-based approximations of the follower's value function, using decision diagrams.
+              We then show how we can derive scalable relaxations from this representation by
+              constructing a minorizer of the follower&rsquo;s value function. We experimentally compare
+              our approach with state-of-the-art bilevel programming solvers and show that we can
+              obtain competitive results for certain problem classes.
+            </p>
+          </details>
+
+          <details>
+            <summary>Bio</summary>
+            <p>
+              Leonardo Lozano is an associate professor in the Operations, Business Analytics &amp;
+              Information Systems Department at the University of Cincinnati. He received his B.Sc.
+              degree from Universidad de los Andes, his M.Sc. degree from University of Florida,
+              and his Ph.D. degree from Clemson University. His research focuses on exact algorithms
+              for discrete optimization and has been published in Operations Research, Mathematical
+              Programming, Transportation Science, Networks (Glover-Klingman 2020 best paper award),
+              and INFORMS Journal on Computing, among others. His research has been funded by the
+              Office of Naval Research, the Air Force Office of Scientific Research, and Google.
+            </p>
+          </details>
+        </div>
+
+        <div class="speaker-card">
+          <h3><a href="https://sites.google.com/view/ssabach">Shoham Sabach</a></h3>
+          <p class="speaker-affiliation">Cornell University, US</p>
+
+          <p class="talk-title">
+            <strong>Title:</strong> A Decade of Progress in Convex Bilevel Optimization
+          </p>
+
+          <details>
+            <summary>Abstract</summary>
+            <p>
+              Bilevel optimization has emerged as a central paradigm in modern optimization,
+              driven by a wide range of applications in machine learning, data science, and engineering.
+              Over the past decade, the field has witnessed significant advances in both algorithmic
+              development and theoretical understanding, particularly for convex bilevel optimization
+              problems. In this talk, we will review recent progress in the design and analysis of
+              algorithms for bilevel optimization, including convergence guarantees and complexity
+              results. We will discuss key challenges that distinguish bilevel problems from classical
+              optimization models, highlight representative contributions, and outline several important
+              open questions.
+            </p>
+          </details>
+
+          <details>
+            <summary>Bio</summary>
+            <p>
+              Dr. Shoham Sabach is an Associate Professor in the School of Operations Research and
+              Information Engineering at Cornell University. Since 2022, he has held an appointment
+              as an Amazon Scholar at Amazon Research. He received his Ph.D. in Mathematics from
+              the Technion – Israel Institute of Technology in 2012. His research focuses on the theory,
+              algorithms, and applications of optimization, with particular emphasis on developing
+              computationally efficient methods and bridging optimization with problems arising in
+              science, engineering, and AI. Dr. Sabach serves on the editorial boards of several leading
+              optimization journals, including Mathematics of Operations Research and Mathematical
+              Programming. He was awarded the 2017 SIAM Optimization Prize for the best optimization
+              paper published between 2014 and 2017.
+            </p>
+          </details>
+        </div>
       </div>
-       <h2>Confirmed Summer School Lecturers</h2>
-       <div class="row">
-        <div class="six columns">
-          <ul>
-             <li><a href="https://zhaosong-lu.github.io/index.html">Zhaosong Lu</a>, University of Minnesota, US</li>
-             <li><a href="https://scholar.google.com/citations?user=nM3-T30AAAAJ&hl=en">Oleg Prokopyev</a>, University of Zurich, Switzerland</li>
-          </ul>   
-	      </div>
+
+      <h2>Summer School Lecturers</h2>
+      <div class="speakers-list">
+        <div class="speaker-card">
+          <h3><a href="https://zhaosong-lu.github.io/index.html">Zhaosong Lu</a></h3>
+          <p class="speaker-affiliation">University of Minnesota, US</p>
+          <p class="talk-title"><strong>Soon more information.</strong></p>
+        </div>
+
+        <div class="speaker-card">
+          <h3><a href="https://scholar.google.com/citations?user=nM3-T30AAAAJ&hl=en">Oleg Prokopyev</a></h3>
+          <p class="speaker-affiliation">University of Zurich, Switzerland</p>
+          <p class="talk-title"><strong>Soon more information.</strong></p>
+        </div>
       </div>
 
     </div>
   </div>
+
 
   <div class="mainstyle1">
     <div class="container">
@@ -182,8 +325,6 @@
               <li><a href="https://scholar.google.com/citations?user=RSdgv2YAAAAJ&hl=en">Bo Zeng</a></li>
               <li><a href="https://scholar.google.com/citations?user=VWYT_7YAAAAJ&hl=en">Jin Zhang</a></li>
 
-                  
-              
           </ul>
         </div>
         <div class="six columns">
@@ -220,7 +361,7 @@
     <div class="container mt-0">
       
       <h4></h4>
-      Bilevel Optimization Society.  Last updated: June 2, 2026.
+      Bilevel Optimization Society.  Last updated: June 29, 2026.
       <h4></h4>
     </div>
   </footer>
