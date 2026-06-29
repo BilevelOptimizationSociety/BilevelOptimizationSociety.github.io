@@ -110,6 +110,17 @@
       color: var(--navbar);
     }
 
+    .inline-talk-title {
+      color: #333;
+      font-size: 1.8rem;
+      font-weight: normal;
+    }
+
+    .inline-talk-title::before {
+      content: " - ";
+      color: #777;
+    }
+
     .speaker-affiliation {
       margin-top: 0;
       color: #555;
@@ -209,12 +220,11 @@
         </div>
 
         <div class="speaker-card">
-          <h3><a href="https://www.business.uc.edu/faculty-research/obais/faculty/leonardo-lozano.html">Leonardo Lozano</a></h3>
+          <h3>
+            <a href="https://www.business.uc.edu/faculty-research/obais/faculty/leonardo-lozano.html">Leonardo Lozano</a>
+            <span class="inline-talk-title">Decision diagram-based approaches for linear discrete bilevel programming</span>
+          </h3>
           <p class="speaker-affiliation">University of Cincinnati, US</p>
-
-          <p class="talk-title">
-            <strong>Title:</strong> Decision diagram-based approaches for linear discrete bilevel programming
-          </p>
 
           <details>
             <summary>Abstract</summary>
@@ -246,12 +256,11 @@
         </div>
 
         <div class="speaker-card">
-          <h3><a href="https://sites.google.com/view/ssabach">Shoham Sabach</a></h3>
+          <h3>
+            <a href="https://sites.google.com/view/ssabach">Shoham Sabach</a>
+            <span class="inline-talk-title">A Decade of Progress in Convex Bilevel Optimization</span>
+          </h3>
           <p class="speaker-affiliation">Cornell University, US</p>
-
-          <p class="talk-title">
-            <strong>Title:</strong> A Decade of Progress in Convex Bilevel Optimization
-          </p>
 
           <details>
             <summary>Abstract</summary>
