@@ -126,7 +126,7 @@ extra_style: |
 <div class="highlight">
   <div class="container">
     <h2>Program</h2>
-    <p>The detailed program can be found in the following <a href="assets/detailed_program.pdf" target="_blank" rel="noopener noreferrer">PDF</a>.</p>
+    <p>The detailed program can be found in the following <a href="assets/detailed_program.pdf" target="_blank" rel="noopener noreferrer">PDF</a>, or as a <a href="/icbo/2026/detailed_program.html">web page</a>.</p>
 
     <div class="schedule-wrapper">
       <table class="schedule-table">
