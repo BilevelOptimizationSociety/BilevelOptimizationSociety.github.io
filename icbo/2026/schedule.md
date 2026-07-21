@@ -163,8 +163,8 @@ extra_style: |
             <th scope="row">08:30</th>
             <td class="lecture event">Lecture 1, Talk 1 (CMU)</td>
             <td class="plenary event">Plenary talk I</td>
-            <td class="session">Morning session I</td>
-            <td class="session">Morning session I</td>
+            <td class="session"><a href="detailed_program.html#aug4-morning-1">Morning session I</a></td>
+            <td class="session"><a href="detailed_program.html#aug5-morning-1">Morning session I</a></td>
           </tr>
 
           <tr>
@@ -178,10 +178,10 @@ extra_style: |
           <tr>
             <th scope="row">10:30</th>
             <td class="lecture event">Lecture 1, Talk 2 (CMU)</td>
-            <td class="session">Morning session I</td>
-            <td class="session">Morning session II</td>
+            <td class="session"><a href="detailed_program.html#aug3-morning-1">Morning session I</a></td>
+            <td class="session"><a href="detailed_program.html#aug4-morning-2">Morning session II</a></td>
             <td class="session">
-              Morning session II<br>
+              <a href="detailed_program.html#aug5-morning-2">Morning session II</a><br>
               <small>Ends at 11:40 AM</small>
             </td>
           </tr>
@@ -197,8 +197,8 @@ extra_style: |
           <tr>
             <th scope="row">13:30</th>
             <td class="lecture event">Lecture 2, Talk 1 (CMU)</td>
-            <td class="session">Afternoon session I</td>
-            <td class="session">Afternoon session I</td>
+            <td class="session"><a href="detailed_program.html#aug3-afternoon-1">Afternoon session I</a></td>
+            <td class="session"><a href="detailed_program.html#aug4-afternoon-1">Afternoon session I</a></td>
             <td>Closing remarks + Lunch break</td>
           </tr>
 
@@ -213,7 +213,7 @@ extra_style: |
           <tr>
             <th scope="row">15:30</th>
             <td class="lecture event">Lecture 2, Talk 2 (CMU)</td>
-            <td class="session">Afternoon session II</td>
+            <td class="session"><a href="detailed_program.html#aug3-afternoon-2">Afternoon session II</a></td>
             <td class="plenary event">Plenary talk II</td>
             <td class="empty">—</td>
           </tr>
