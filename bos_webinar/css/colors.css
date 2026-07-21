@@ -1,0 +1,24 @@
+:root {
+    /* Navbar */
+    --navbar: #2965b4;            /* Pitt Navy */
+    --navbartext: #ffffff;        /* White text */
+    --navbarselect: #668af3;      /* CMU Cardinal Red */
+    --navbarselecttext: #ffffff;  /* White text */
+
+    /* Highlights */
+    --highlight: #811dd243;         /* Pitt Gold */
+    --highlightext: #000000;      
+    --highlightlink: #ae4fd6;     /* Deeper CMU red for links */
+
+    /* Main colors (backgrounds / sections) */
+    --maincolor1: #f5f5f5;        /* Neutral light gray */
+    --maincolor1text: #000000;
+    --maincolor1link: #c06171;    /* CMU Cardinal Red */
+
+    --maincolor2: #ffffff;        /* White for contrast sections */
+    --maincolor2text: #000000;
+    --maincolor2link: #244d7e;    /* Pitt Navy */
+
+    /* Optional accent */
+    --accent: #646569;            /* CMU Steel Gray */
+}
