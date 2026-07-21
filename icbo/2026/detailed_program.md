@@ -32,9 +32,12 @@ _Author(s), title, and scheduled time for each talk_
 
 _Presenting speaker shown in **bold**_
 
+**Jump to a day:** [Monday, August 3](#monday-august-3) &middot; [Tuesday, August 4](#tuesday-august-4) &middot; [Wednesday, August 5](#wednesday-august-5)
+
 ## Monday, August 3
 
 ### Morning Session I — 10:30 AM – 12:00 PM
+{: #aug3-morning-1}
 
 #### SESSION 1: Bilevel Optimization with Multiple Leaders or Followers
 
@@ -64,6 +67,7 @@ _Presenting speaker shown in **bold**_
 | **Rojo, Luis**; Anjos, Miguel F.; Brotcorne, Luce; Gendreau, Michel | The Charging Facility Location-and-Operation Problem |
 
 ### Afternoon Session I — 1:30 PM – 3:00 PM
+{: #aug3-afternoon-1}
 
 #### SESSION 4: Solvers and Instances
 
@@ -90,6 +94,7 @@ _Presenting speaker shown in **bold**_
 | **Choi, Yeonjun**; Zeng, Bo; Lee, Kangbok | Exact Algorithms for Robust Container Pre-Marshalling and Relocation under Retrieval-Priority Uncertainty |
 
 ### Afternoon Session II — 3:30 PM – 5:00 PM
+{: #aug3-afternoon-2}
 
 #### SESSION 7: Uncertainty in Bilevel Optimization 1
 
@@ -118,6 +123,7 @@ _Presenting speaker shown in **bold**_
 ## Tuesday, August 4
 
 ### Morning Session I — 8:30 AM – 10:00 AM
+{: #aug4-morning-1}
 
 #### SESSION 10: Mixed-Integer Bilevel Optimization
 
@@ -146,6 +152,7 @@ _Presenting speaker shown in **bold**_
 | **Sahu, Rishabh** | When Priority Fails: A Bilevel Framework for Resolving Passenger–Freight Conflicts in Indian Railways |
 
 ### Morning Session II — 10:30 AM – 12:00 PM
+{: #aug4-morning-2}
 
 #### SESSION 13: Uncertainty in Bilevel Optimization 3
 
@@ -175,6 +182,7 @@ _Presenting speaker shown in **bold**_
 | **Ota, Matheus**; Vasquez, Sebastian | A Geometric Perspective on Inverse Combinatorial Optimization via Adjacency |
 
 ### Afternoon Session I — 1:30 PM – 3:00 PM
+{: #aug4-afternoon-1}
 
 #### SESSION 16: Bilevel Optimization and AI Systems
 
@@ -203,6 +211,7 @@ _Presenting speaker shown in **bold**_
 ## Wednesday, August 5
 
 ### Morning Session I — 8:30 AM – 10:00 AM
+{: #aug5-morning-1}
 
 #### SESSION 19: Selected Applications of Bilevel Optimization 3
 
@@ -231,6 +240,7 @@ _Presenting speaker shown in **bold**_
 | Zhou, Bo; **Jiang, Ruiwei**; Shen, Siqian | Submodularity and Supermodularity in Min-Cost Flow Interdiction |
 
 ### Morning Session II — 10:30 AM – 11:40 AM
+{: #aug5-morning-2}
 
 #### SESSION 22: Single-Level Reformulations
 
