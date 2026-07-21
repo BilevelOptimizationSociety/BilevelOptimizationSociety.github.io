@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <meta charset="utf-8">
+  <title>{{ page.title }}</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link href="https://fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+  <link rel="stylesheet" href="{{ page.css_dir }}/normalize.css">
+  <link rel="stylesheet" href="{{ page.css_dir }}/skeleton.css">
+  <link rel="stylesheet" href="{{ page.css_dir }}/colors.css">
+
+  <link rel="icon" type="image/png" href="{{ page.site_root }}/images/icon.png">
+  <link rel="shortcut icon" href="{{ page.site_root }}/images/icon.png">
+
+  <style>
+    .topnav {
+      overflow: hidden;
+      background-color: var(--navbar);
+    }
+
+    .topnav a {
+      float: left;
+      color: #f2f2f2;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-size: 17px;
+    }
+
+    .topnav a:hover {
+      background-color: var(--navbarselect);
+      color: var(--navbarselecttext);
+    }
+
+    .topnav a.active {
+      background-color: var(--navbarselect);
+      color: var(--navbarselecttext);
+    }
+  </style>
+
+  <style>
+    .highlight {
+      background-color: var(--highlight);
+      color: var(--highlightext);
+    }
+
+    .highlight a {
+      color: var(--highlightlink);
+    }
+  </style>
+
+  <style>
+    .mainstyle1 {
+      background-color: var(--maincolor1);
+      color: var(--maincolor1text);
+    }
+
+    .mainstyle1 a {
+      color: var(--maincolor1link);
+    }
+  </style>
+
+  <style>
+    .mainstyle2 {
+      background-color: var(--maincolor2);
+      color: var(--maincolor2text);
+    }
+
+    .mainstyle2 a {
+      color: var(--maincolor2link);
+    }
+  </style>
+
+  {% if page.extra_style %}
+    <style>
+      {{ page.extra_style }}
+    </style>
+  {% endif %}
+
+</head>
+<body>
+
+  <!-- Primary Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <div class="firstrow">
+    <div class="container">
+      <div class="row" style="display: flex; align-items: center;">
+        <div class="six columns">
+          <img src="{{ page.site_root }}/images/BOS_LOGO.png" alt="BOS Logo" width="100%">
+        </div>
+        <div class="six columns" style="display: flex; flex-direction: column; justify-content: center;">
+          <h2>{{ page.header_title }}</h2>
+          {% if page.header_subtitle %}<h5>{{ page.header_subtitle }}</h5>{% endif %}
+          {% if page.header_meta %}{{ page.header_meta }}{% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div style="background-color:var(--navbar);color:var(--navbartext)">
+    <div class="container">
+      <div class="topnav">
+        {% for item in page.nav %}
+          <a href="{{ item.url }}" {% if page.permalink == item.url %}class="active"{% endif %}>{{ item.title }}</a>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+
+  {{ content }}
+
+  <footer class="fixed-bottom" role="contentinfo">
+    <div class="container mt-0">
+      <h4></h4>
+      Bilevel Optimization Society. Last updated: {{ page.last_updated }}.
+      <h4></h4>
+    </div>
+  </footer>
+
+</body>
+</html>
