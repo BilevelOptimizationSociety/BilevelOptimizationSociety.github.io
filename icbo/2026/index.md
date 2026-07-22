@@ -113,27 +113,42 @@ extra_style: |
   <div class="container">
     <h2>Plenary Speakers</h2>
     <div class="speakers-list">
-      <div class="speaker-card">
-        <h3><a href="https://cs.brown.edu/people/faculty/amy/">Amy Greenwald</a></h3>
-        <p class="speaker-affiliation">Brown University, US</p>
+        <div class="speaker-card">
+          <h3>
+	    <a href="https://cs.brown.edu/people/faculty/amy/">Amy Greenwald</a>
+	    <span class="inline-talk-title">The Promise of Bilevel Optimization in Machine Learning (and Economics)</span>
+	  </h3>
+          <p class="speaker-affiliation">Brown University, US</p>
 
-        <details>
-          <summary>Bio</summary>
-          <p>
-            Amy Greenwald is Professor of Computer Science at Brown University in Providence,
-            Rhode Island. Her core research focus is multiagent AI. Application areas include
-            supply chains, electricity markets, and online advertising. She frames such environments
-            as games or economies, and develops algorithms to solve for their equilibria and/or
-            builds strategic AI for these environments. Greenwald did postdoctoral work at IBM
-            Research and was a visiting researcher at Microsoft Research. She was awarded the
-            Presidential Early Career Award for Scientists and Engineers (PECASE), a Fulbright
-            (which she declined), and a Sloan Fellowship. Finally, Greenwald is active in promoting
-            diversity in Computer Science, leading multiple K-12 initiatives in which Brown
-            undergraduates teach computer science to public school students in the greater Providence
-            area.
-          </p>
-        </details>
-      </div>
+          <details>
+            <summary>Abstract</summary>
+            <p>
+	      I will discuss my recent explorations of supervised learning, reinforcement learning, and reinforcement
+	      learning from human feedback (RLHF) from the point of view of bilevel optimization. We conjectured that
+	      the BLO perspective, i.e., computing a Stackelberg equilibrium, would improve performance in these domains,
+	      as compared to finding a Nash equilibrium. On toy supervised and reinforcement learning problems, we show
+	      that the BLO perspective is indeed beneficial; but scaling this result to larger problems like RHLF is
+	      proving challenging. Time permitting, I will also discuss a BLO-based approach to economic equilibrium computation.
+            </p>
+          </details>
+
+          <details>
+            <summary>Bio</summary>
+            <p>
+              Amy Greenwald is Professor of Computer Science at Brown University in Providence,
+              Rhode Island. Her core research focus is multiagent AI. Application areas include
+              supply chains, electricity markets, and online advertising. She frames such environments
+              as games or economies, and develops algorithms to solve for their equilibria and/or
+              builds strategic AI for these environments. Greenwald did postdoctoral work at IBM
+              Research and was a visiting researcher at Microsoft Research. She was awarded the
+              Presidential Early Career Award for Scientists and Engineers (PECASE), a Fulbright
+              (which she declined), and a Sloan Fellowship. Finally, Greenwald is active in promoting
+              diversity in Computer Science, leading multiple K-12 initiatives in which Brown
+              undergraduates teach computer science to public school students in the greater Providence
+              area.
+            </p>
+          </details>
+        </div>
 
       <div class="speaker-card">
         <h3>
