@@ -18,17 +18,10 @@ The Bilevel Optimization Society acts in accordance with its <a href="/assets/pd
 
 The current Committee of the Bilevel Optimization Society (COBOS) consists of:
 
-<ul>
-  <li>
-<strong>Chair:</strong> Alain Zemkoho (University of Southampton, UK)</li>
-  <li>
-<strong>Chair-elected:</strong> Ted Ralphs (University of Lehigh, USA)</li>
-  <li>
-<strong>Secretary:</strong> Johannes Thuerauf (University of Nuremberg, Germany)</li>
-  <li>
-<strong>Treasurer:</strong> Margarida Carvalho (Université de Montréal, Canada)</li>
-  <li>
-<strong>Webmaster:</strong> Victor Bucarey Lopez (Universidad de O'Higgins, Chile)</li>
-</ul>
+- **Chair:** Alain Zemkoho (University of Southampton, UK)
+- **Chair-elected:** Ted Ralphs (University of Lehigh, USA)
+- **Secretary:** Johannes Thuerauf (University of Nuremberg, Germany)
+- **Treasurer:** Margarida Carvalho (Université de Montréal, Canada)
+- **Webmaster:** Victor Bucarey Lopez (Universidad de O'Higgins, Chile)
 
-You can contact us to <a href="mailto:bileveloptimizationsociety@gmail.com"> our email address.</a>
+You can contact us at our [email address](mailto:bileveloptimizationsociety@gmail.com).

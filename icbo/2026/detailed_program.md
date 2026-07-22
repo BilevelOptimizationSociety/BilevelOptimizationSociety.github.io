@@ -22,7 +22,6 @@ nav:
   - title: Local Information
     url: /icbo/2026/local.html
 ---
-{::options parse_block_html="true" /}
 <div class="mainstyle2">
 <div class="container">
 

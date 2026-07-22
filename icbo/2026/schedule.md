@@ -124,140 +124,143 @@ extra_style: |
   }
 ---
 <div class="highlight">
-  <div class="container">
-    <h2>Program</h2>
-    <p>The detailed program can be found in the following <a href="assets/detailed_program.pdf" target="_blank" rel="noopener noreferrer">PDF</a>, or as a <a href="/icbo/2026/detailed_program.html">web page</a>.</p>
+<div class="container">
 
-    <div class="schedule-wrapper">
-      <table class="schedule-table">
-        <caption>Swipe to see more days</caption>
+## Program
 
-        <colgroup>
-          <col class="time-col">
-          <col class="day-col">
-          <col class="day-col">
-          <col class="day-col">
-          <col class="day-col">
-        </colgroup>
+The detailed program can be found in the following <a href="assets/detailed_program.pdf" target="_blank" rel="noopener noreferrer">PDF</a>, or as a [web page](/icbo/2026/detailed_program.html).
 
-        <thead>
-          <tr>
-            <th scope="col">Time</th>
-            <th scope="col">August 2nd, Sunday</th>
-            <th scope="col">August 3rd, Monday</th>
-            <th scope="col">August 4th, Tuesday</th>
-            <th scope="col">August 5th, Wednesday</th>
-          </tr>
-        </thead>
+<div class="schedule-wrapper">
+<table class="schedule-table" markdown="0">
+<caption>Swipe to see more days</caption>
 
-        <tbody>
-          <tr>
-            <th scope="row">08:15</th>
-            <td>Welcome &amp; Registration (CMU)</td>
-            <td>Welcome &amp; Registration -- Pitt</td>
-            <td>Registration -- Pitt</td>
-            <td>Registration -- Pitt</td>
-          </tr>
+<colgroup>
+<col class="time-col">
+<col class="day-col">
+<col class="day-col">
+<col class="day-col">
+<col class="day-col">
+</colgroup>
 
-          <tr>
-            <th scope="row">08:30</th>
-            <td class="lecture event">Lecture 1, Talk 1 (CMU)</td>
-            <td class="plenary event">Plenary talk I</td>
-            <td class="session"><a href="detailed_program.html#aug4-morning-1">Morning session I</a></td>
-            <td class="session"><a href="detailed_program.html#aug5-morning-1">Morning session I</a></td>
-          </tr>
+<thead>
+<tr>
+<th scope="col">Time</th>
+<th scope="col">August 2nd, Sunday</th>
+<th scope="col">August 3rd, Monday</th>
+<th scope="col">August 4th, Tuesday</th>
+<th scope="col">August 5th, Wednesday</th>
+</tr>
+</thead>
 
-          <tr>
-            <th scope="row">10:00</th>
-            <td class="break">Coffee break</td>
-            <td class="break">Coffee break</td>
-            <td class="break">Coffee break</td>
-            <td class="break">Coffee break</td>
-          </tr>
+<tbody>
+<tr>
+<th scope="row">08:15</th>
+<td>Welcome &amp; Registration (CMU)</td>
+<td>Welcome &amp; Registration -- Pitt</td>
+<td>Registration -- Pitt</td>
+<td>Registration -- Pitt</td>
+</tr>
 
-          <tr>
-            <th scope="row">10:30</th>
-            <td class="lecture event">Lecture 1, Talk 2 (CMU)</td>
-            <td class="session"><a href="detailed_program.html#aug3-morning-1">Morning session I</a></td>
-            <td class="session"><a href="detailed_program.html#aug4-morning-2">Morning session II</a></td>
-            <td class="session">
-              <a href="detailed_program.html#aug5-morning-2">Morning session II</a><br>
-              <small>Ends at 11:40 AM</small>
-            </td>
-          </tr>
+<tr>
+<th scope="row">08:30</th>
+<td class="lecture event">Lecture 1, Talk 1 (CMU)</td>
+<td class="plenary event">Plenary talk I</td>
+<td class="session"><a href="detailed_program.html#aug4-morning-1">Morning session I</a></td>
+<td class="session"><a href="detailed_program.html#aug5-morning-1">Morning session I</a></td>
+</tr>
 
-          <tr>
-            <th scope="row">12:00</th>
-            <td>Lunch break</td>
-            <td>Lunch break</td>
-            <td>Lunch break</td>
-            <td class="plenary event">Plenary talk III</td>
-          </tr>
+<tr>
+<th scope="row">10:00</th>
+<td class="break">Coffee break</td>
+<td class="break">Coffee break</td>
+<td class="break">Coffee break</td>
+<td class="break">Coffee break</td>
+</tr>
 
-          <tr>
-            <th scope="row">13:30</th>
-            <td class="lecture event">Lecture 2, Talk 1 (CMU)</td>
-            <td class="session"><a href="detailed_program.html#aug3-afternoon-1">Afternoon session I</a></td>
-            <td class="session"><a href="detailed_program.html#aug4-afternoon-1">Afternoon session I</a></td>
-            <td>Closing remarks + Lunch break</td>
-          </tr>
+<tr>
+<th scope="row">10:30</th>
+<td class="lecture event">Lecture 1, Talk 2 (CMU)</td>
+<td class="session"><a href="detailed_program.html#aug3-morning-1">Morning session I</a></td>
+<td class="session"><a href="detailed_program.html#aug4-morning-2">Morning session II</a></td>
+<td class="session">
+<a href="detailed_program.html#aug5-morning-2">Morning session II</a><br>
+<small>Ends at 11:40 AM</small>
+</td>
+</tr>
 
-          <tr>
-            <th scope="row">15:00</th>
-            <td class="break">Coffee break</td>
-            <td class="break">Coffee break</td>
-            <td class="break">Coffee break</td>
-            <td class="empty">—</td>
-          </tr>
+<tr>
+<th scope="row">12:00</th>
+<td>Lunch break</td>
+<td>Lunch break</td>
+<td>Lunch break</td>
+<td class="plenary event">Plenary talk III</td>
+</tr>
 
-          <tr>
-            <th scope="row">15:30</th>
-            <td class="lecture event">Lecture 2, Talk 2 (CMU)</td>
-            <td class="session"><a href="detailed_program.html#aug3-afternoon-2">Afternoon session II</a></td>
-            <td class="plenary event">Plenary talk II</td>
-            <td class="empty">—</td>
-          </tr>
+<tr>
+<th scope="row">13:30</th>
+<td class="lecture event">Lecture 2, Talk 1 (CMU)</td>
+<td class="session"><a href="detailed_program.html#aug3-afternoon-1">Afternoon session I</a></td>
+<td class="session"><a href="detailed_program.html#aug4-afternoon-1">Afternoon session I</a></td>
+<td>Closing remarks + Lunch break</td>
+</tr>
 
-          <tr>
-            <th scope="row">17:00</th>
-            <td>Dinner</td>
-            <td class="event">BOS - Business meeting</td>
-            <td class="empty">—</td>
-            <td class="empty">—</td>
-          </tr>
+<tr>
+<th scope="row">15:00</th>
+<td class="break">Coffee break</td>
+<td class="break">Coffee break</td>
+<td class="break">Coffee break</td>
+<td class="empty">—</td>
+</tr>
 
-          <tr>
-            <th scope="row">18:30</th>
-            <td class="empty">—</td>
-            <td class="social event">Welcome reception</td>
-            <td class="social event">Dinner</td>
-            <td class="empty">—</td>
-          </tr>
+<tr>
+<th scope="row">15:30</th>
+<td class="lecture event">Lecture 2, Talk 2 (CMU)</td>
+<td class="session"><a href="detailed_program.html#aug3-afternoon-2">Afternoon session II</a></td>
+<td class="plenary event">Plenary talk II</td>
+<td class="empty">—</td>
+</tr>
 
-          <tr>
-            <th scope="row">20:30</th>
-            <td class="empty">—</td>
-            <td>End of reception</td>
-            <td>End of dinner</td>
-            <td class="empty">—</td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-  </div>
+<tr>
+<th scope="row">17:00</th>
+<td>Dinner</td>
+<td class="event">BOS - Business meeting</td>
+<td class="empty">—</td>
+<td class="empty">—</td>
+</tr>
+
+<tr>
+<th scope="row">18:30</th>
+<td class="empty">—</td>
+<td class="social event">Welcome reception</td>
+<td class="social event">Dinner</td>
+<td class="empty">—</td>
+</tr>
+
+<tr>
+<th scope="row">20:30</th>
+<td class="empty">—</td>
+<td>End of reception</td>
+<td>End of dinner</td>
+<td class="empty">—</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+</div>
 </div>
 
 <div class="mainstyle1">
-  <div class="container">
-    <h2>Meals</h2>
-    <div class="schedule-notes">
-      <p>
-        <strong>Lunch breaks:</strong> Lunch is not included in the program. Participants are free to make their own lunch arrangements during the scheduled breaks.
-      </p>
+<div class="container">
 
-      <p>
-        <strong>Dinner information:</strong> The Sunday dinner is not organized by the conference. Participants should make their own dinner arrangements. The Tuesday dinner requires prior registration.
-      </p>
-    </div>
-  </div>
+## Meals
+
+<div class="schedule-notes">
+
+**Lunch breaks:** Lunch is not included in the program. Participants are free to make their own lunch arrangements during the scheduled breaks.
+
+**Dinner information:** The Sunday dinner is not organized by the conference. Participants should make their own dinner arrangements. The Tuesday dinner requires prior registration.
+
+</div>
+</div>
 </div>

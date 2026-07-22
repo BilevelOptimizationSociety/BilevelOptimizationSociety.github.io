@@ -10,7 +10,6 @@ related_posts: false
 The 23rd EUROPT Conference on Advances in Continuous Optimization (EUROPT 2026) will be held in Linz, Austria, on July 8–10, 2026, focusing on recent advances in continuous optimization, including theory, algorithms, software, and applications.
 
 A dedicated stream on Bilevel Optimization is being planned. Researchers interested in organizing an invited session or presenting a talk within this stream are invited to get in touch.
-<ul>
-  <li> Contact: Ivana Ljubić (ljubic@essec.edu)</li>
-  <li>Abstract submission deadline: April 1, 2026</li>
-</ul>
+
+- Contact: Ivana Ljubić (ljubic@essec.edu)
+- Abstract submission deadline: April 1, 2026

@@ -23,37 +23,39 @@ nav:
     url: /icbo/2026/local.html
 ---
 <div class="highlight">
-  <div class="container">
-    <h2>Venue</h2>
-    <img src="images/pitt-local.jpg" alt="University of Pittsburgh" width="70%">
-    <p>The conference will take place across two campuses in the vibrant city of Pittsburgh.
-       The summer school and tutorial sessions will be hosted at Carnegie Mellon University,
-       while the main conference sessions will be held at the University of Pittsburgh.</p>
-  </div>
+<div class="container">
+
+## Venue
+
+<img src="images/pitt-local.jpg" alt="University of Pittsburgh" width="70%">
+
+The conference will take place across two campuses in the vibrant city of Pittsburgh. The summer school and tutorial sessions will be hosted at Carnegie Mellon University, while the main conference sessions will be held at the University of Pittsburgh.
+
+</div>
 </div>
 
 <div class="mainstyle1">
-  <div class="container">
-    <h2>Hotel Accommodations</h2>
+<div class="container">
 
-    <p>We are pleased to offer special group room rates for attendees of the International
-    Conference on Bilevel Optimization</p>
-    <p>August 1–6, 2026 | Pittsburgh, PA</p>
-    <p>Please note that all room blocks have a reservation cutoff of July 1, 2026. We strongly
-    encourage participants to book early to secure their preferred accommodations.</p>
+## Hotel Accommodations
 
-    <ul><strong>Residence Inn by Marriott</strong> – Pittsburgh Oakland / University Place
-      <li>$144 per night</li>
-      <li><a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1770836031384&key=GRP&app=resvlink&_branch_match_id=1550407322894719700&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXTywo0MtNLCrKzC8p0UvOz9UvSi3OyczLtgdK2ALZZSCOWmaKraG5uYGFsZmBsaGxhYladmqlrXtQgFpdUWpaKlB3Xnp8UlF%2BeXFqka1bJlAsvwIAXLG2wmEAAAA%3D">Reservation link</a></li>
-    </ul>
-    <ul><strong>Hilton Garden Inn</strong> – Pittsburgh University Place
-      <li>$145 per night</li>
-      <li><a href="https://www.hilton.com/en/book/reservation/deeplink/?ctyhocn=PITUCGI&groupCode=92V&arrivaldate=2026-08-01&departuredate=2026-08-07&cid=OM,WW,HILTONLINK,EN,DirectLink&fromId=HILTONLINKDIRECT">Reservation link</a></li>
-    </ul>
+We are pleased to offer special group room rates for attendees of the International Conference on Bilevel Optimization
 
-    <p><strong>Tip:</strong> If you plan to stay at one of the conference hotels, we recommend making your
-    reservation as soon as possible to ensure availability within the room block.
-    We look forward to welcoming you to Pittsburgh and to a successful conference!
-    </p>
-  </div>
+August 1–6, 2026 | Pittsburgh, PA
+
+Please note that all room blocks have a reservation cutoff of July 1, 2026. We strongly encourage participants to book early to secure their preferred accommodations.
+
+**Residence Inn by Marriott** – Pittsburgh Oakland / University Place
+
+- $144 per night
+- [Reservation link](https://www.marriott.com/event-reservations/reservation-link.mi?id=1770836031384&key=GRP&app=resvlink&_branch_match_id=1550407322894719700&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXTywo0MtNLCrKzC8p0UvOz9UvSi3OyczLtgdK2ALZZSCOWmaKraG5uYGFsZmBsaGxhYladmqlrXtQgFpdUWpaKlB3Xnp8UlF%2BeXFqka1bJlAsvwIAXLG2wmEAAAA%3D)
+
+**Hilton Garden Inn** – Pittsburgh University Place
+
+- $145 per night
+- [Reservation link](https://www.hilton.com/en/book/reservation/deeplink/?ctyhocn=PITUCGI&groupCode=92V&arrivaldate=2026-08-01&departuredate=2026-08-07&cid=OM,WW,HILTONLINK,EN,DirectLink&fromId=HILTONLINKDIRECT)
+
+**Tip:** If you plan to stay at one of the conference hotels, we recommend making your reservation as soon as possible to ensure availability within the room block. We look forward to welcoming you to Pittsburgh and to a successful conference!
+
+</div>
 </div>
