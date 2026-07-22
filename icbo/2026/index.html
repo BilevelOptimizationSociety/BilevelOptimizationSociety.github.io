@@ -27,8 +27,8 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <link rel="icon" type="image/png" href="/images/icon.png">
   <link rel="shortcut icon" href="/images/icon.png">
-  
-  <style>  
+
+  <style>
     .topnav {
       overflow: hidden;
       background-color: var(--navbar);
@@ -42,12 +42,12 @@
       text-decoration: none;
       font-size: 17px;
     }
-    
+
     .topnav a:hover {
       background-color: var(--navbarselect);
       color: var(--navbarselecttext);
     }
-    
+
     .topnav a.active {
       background-color: var(--navbarselect);
       color: var(--navbarselecttext);
@@ -75,7 +75,7 @@
 	color: var(--maincolor1link);
     }
   </style>
-  
+
   <style>
     .mainstyle2 {
 	background-color: var(--maincolor2);
@@ -199,8 +199,8 @@
         <p> We are happy to announce that the International Conference on Bilevel Optimization 2026 will be hosted jointly by the University of Pittsburgh and Carnegie Mellon University in August 2026. We sincerely thank Prof. Bo Zeng and Prof. Ramteen Sioshansi for serving as co-chairs of the first conference since the creation of the BOS. </p>
 
 
-        <p>The ICBO is a bi-annual conference on bilevel optimization with the goal to highlight recent advances and trends in the field. The conferences will usually consist of a set of invited plenary speakers as well as of sessions of 
-          contributed talks. Its aim is to bring together junior and senior researchers in the field of bilevel optimization 
+        <p>The ICBO is a bi-annual conference on bilevel optimization with the goal to highlight recent advances and trends in the field. The conferences will usually consist of a set of invited plenary speakers as well as of sessions of
+          contributed talks. Its aim is to bring together junior and senior researchers in the field of bilevel optimization
           as well as practitioners using bilevel optimization. The conference also includes short courses on relevant topics for practitioners and early-career researchers.</p>
         <p>ICBO 2026 is supported by the <a href="https://bileveloptimization.org/">Bilevel Optimization Society (BOS)</a>, a section of the <a href="http://www.mathopt.org/">Mathematical Optimization Society (MOS)</a>.</p>
         <br>
@@ -213,9 +213,25 @@
     <div class="container">
       <h2>Plenary Speakers</h2>
       <div class="speakers-list">
+
         <div class="speaker-card">
-          <h3><a href="https://cs.brown.edu/people/faculty/amy/">Amy Greenwald</a></h3>
+          <h3>
+	    <a href="https://cs.brown.edu/people/faculty/amy/">Amy Greenwald</a>
+	    <span class="inline-talk-title">The Promise of Bilevel Optimization in Machine Learning (and Economics)</span>
+	  </h3>
           <p class="speaker-affiliation">Brown University, US</p>
+
+          <details>
+            <summary>Abstract</summary>
+            <p>
+	      I will discuss my recent explorations of supervised learning, reinforcement learning, and reinforcement
+	      learning from human feedback (RLHF) from the point of view of bilevel optimization. We conjectured that
+	      the BLO perspective, i.e., computing a Stackelberg equilibrium, would improve performance in these domains,
+	      as compared to finding a Nash equilibrium. On toy supervised and reinforcement learning problems, we show
+	      that the BLO perspective is indeed beneficial; but scaling this result to larger problems like RHLF is
+	      proving challenging. Time permitting, I will also discuss a BLO-based approach to economic equilibrium computation.
+            </p>
+          </details>
 
           <details>
             <summary>Bio</summary>
@@ -455,10 +471,10 @@
 
 
     <!-- Footer -->
-    
+
   <footer class="fixed-bottom" role="contentinfo">
     <div class="container mt-0">
-      
+
       <h4></h4>
       Bilevel Optimization Society.  Last updated: July 3, 2026.
       <h4></h4>
