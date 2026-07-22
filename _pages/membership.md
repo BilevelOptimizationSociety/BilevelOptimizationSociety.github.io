@@ -14,7 +14,7 @@ profile:
 
 ### Membership
 
-A person becomes a BOS member by completing and submitting the <a href="https://docs.google.com/forms/d/1nmC8XYwY1xaloMbe8tXL4Uwg4QoHEKwpoV1G7SD0Qkg/viewform?edit_requested=true" target="_blank">following memebership form</a>.
+A person becomes a BOS member by completing and submitting the [following memebership form](https://docs.google.com/forms/d/1nmC8XYwY1xaloMbe8tXL4Uwg4QoHEKwpoV1G7SD0Qkg/viewform?edit_requested=true).
 Membership of the MOS is not a prerequisite for membership of the BOS.
 
 Membership to BOS has to be renewed by the 31st of December of the calendar year of the most recent edition of ICBO. Membership lapses if a member fails to complete and submit the membership form by this deadline.

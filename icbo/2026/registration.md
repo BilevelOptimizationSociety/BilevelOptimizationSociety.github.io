@@ -23,37 +23,30 @@ nav:
     url: /icbo/2026/local.html
 ---
 <div class="highlight">
-  <div class="container">
-    <h2>Registration</h2>
-    <p>
-      Registration for ICBO 2026 now is open! You can register in the following
-      <a href="https://panthercentralpitt.wufoo.com/forms/international-conference-on-bilevel-optimization/">registration Link</a>
-    </p>
-  </div>
+<div class="container">
+
+## Registration
+
+Registration for ICBO 2026 now is open! You can register in the following [registration Link](https://panthercentralpitt.wufoo.com/forms/international-conference-on-bilevel-optimization/)
+
+</div>
 </div>
 
 <div class="mainstyle2">
-  <div class="container">
-    <h2>Prices</h2>
+<div class="container">
 
-    <ul class="registration-list">
-      <li>
-        <strong>Early registration</strong> (on or before June 15, 2026)
-        <ul>
-          <li>Regular: 300 USD</li>
-          <li>Students: 150 USD</li>
-        </ul>
-      </li>
-      <li>
-        <strong>Late registration</strong> (until August 1, 2026)
-        <ul>
-          <li>Regular: 450 USD</li>
-          <li>Students: 200 USD</li>
-        </ul>
-      </li>
-    </ul>
+## Prices
 
-    <p><b>The summer school is free for conference registrants; otherwise, the fee is $100.</b></p>
-    <p><b>Dinner: TBD</b></p>
-  </div>
+- **Early registration** (on or before June 15, 2026)
+  - Regular: 300 USD
+  - Students: 150 USD
+- **Late registration** (until August 1, 2026)
+  - Regular: 450 USD
+  - Students: 200 USD
+
+**The summer school is free for conference registrants; otherwise, the fee is $100.**
+
+**Dinner: TBD**
+
+</div>
 </div>

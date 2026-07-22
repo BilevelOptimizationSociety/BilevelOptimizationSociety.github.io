@@ -23,29 +23,25 @@ nav:
     url: /icbo/2026/local.html
 ---
 <div class="highlight">
-  <div class="container">
-    <h2>Submissions</h2>
+<div class="container">
 
-    <p>The submission process will be open from <strong>January 1st, 2026</strong> to <s>March 1st, 2026 <strong>April 1st, 2026</strong></s> <strong>the final deadline extension: April 15th, 2026</strong>. You can submit your contribution in the following link:</p>
+## Submissions
 
-    <p><a href="https://cmt3.research.microsoft.com/ICBO2026/Submission/Index">Submission link</a></p>
+The submission process will be open from **January 1st, 2026** to ~~March 1st, 2026 **April 1st, 2026**~~ **the final deadline extension: April 15th, 2026**. You can submit your contribution in the following link:
 
-    <p>or by searching the ICBO conference in the <a href="https://cmt3.research.microsoft.com/ICBO2026/Submission/Index">CMT service portal</a></p>
+[Submission link](https://cmt3.research.microsoft.com/ICBO2026/Submission/Index)
 
-    <img src="images/submission_link.png" alt="ICBO conferences at CMT" width="100%">
+or by searching the ICBO conference in the [CMT service portal](https://cmt3.research.microsoft.com/ICBO2026/Submission/Index)
 
-    <p>
-      <strong>Some info:</strong>
-      <br><strong>Abstract length:</strong> Up to 2,000 characters (including spaces).
-      <br><strong>Keywords:</strong> 3–5 keywords are required.
-    </p>
+<img src="images/submission_link.png" alt="ICBO conferences at CMT" width="100%">
 
-    <p>Abstract submissions will be reviewed for relevance, originality, and technical quality.
-       Accepted abstracts will be included in the conference program, and authors of accepted submissions will be invited to present their work at ICBO 2026. At least one author of each accepted submission must register for the conference and present the work.
-    </p>
+**Some info:**
+<br>**Abstract length:** Up to 2,000 characters (including spaces).
+<br>**Keywords:** 3–5 keywords are required.
 
-    <p>The Microsoft CMT service was used for managing the peer-reviewing process for this conference.
-       This service was provided for free by Microsoft and they bore all expenses,
-       including costs for Azure cloud services as well as for software development and support.</p>
-  </div>
+Abstract submissions will be reviewed for relevance, originality, and technical quality. Accepted abstracts will be included in the conference program, and authors of accepted submissions will be invited to present their work at ICBO 2026. At least one author of each accepted submission must register for the conference and present the work.
+
+The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
+
+</div>
 </div>
