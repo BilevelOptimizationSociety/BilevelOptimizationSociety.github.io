@@ -238,7 +238,7 @@ _Presenting speaker shown in **bold**_
 | Dadpour, Amir; Fukasawa, Ricardo; **Weninger, Noah** | Improved Algorithms for Shortest-Path Network Interdiction |
 | Zhou, Bo; **Jiang, Ruiwei**; Shen, Siqian | Submodularity and Supermodularity in Min-Cost Flow Interdiction |
 
-### Morning Session II — 10:30 AM – 11:40 AM
+### Morning Session II — 10:30 AM – 12:00 PM
 {: #aug5-morning-2}
 
 #### SESSION 22: Single-Level Reformulations

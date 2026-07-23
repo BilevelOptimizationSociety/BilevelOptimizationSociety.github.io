@@ -182,10 +182,7 @@ The detailed program can be found in the following <a href="assets/detailed_prog
 <td class="lecture event">Lecture 1, Talk 2 (CMU)</td>
 <td class="session"><a href="detailed_program.html#aug3-morning-1">Morning session I</a></td>
 <td class="session"><a href="detailed_program.html#aug4-morning-2">Morning session II</a></td>
-<td class="session">
-<a href="detailed_program.html#aug5-morning-2">Morning session II</a><br>
-<small>Ends at 11:40 AM</small>
-</td>
+<td class="session"><a href="detailed_program.html#aug5-morning-2">Morning session II</a></td>
 </tr>
 
 <tr>
