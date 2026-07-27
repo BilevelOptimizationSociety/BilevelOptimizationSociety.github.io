@@ -118,6 +118,7 @@ ICBO 2026 is supported by the [Bilevel Optimization Society (BOS)](https://bilev
 <span class="inline-talk-title">The Promise of Bilevel Optimization in Machine Learning (and Economics)</span>
 </h3>
 <p class="speaker-affiliation">Brown University, US</p>
+<p class="speaker-affiliation">Chair: Martin Schmidt</p>
 <details markdown="0">
 <summary>Abstract</summary>
 <p>
@@ -153,6 +154,7 @@ area.
 <span class="inline-talk-title">Decision diagram-based approaches for linear discrete bilevel programming</span>
 </h3>
 <p class="speaker-affiliation">University of Cincinnati, US</p>
+<p class="speaker-affiliation">Chair: Ted Ralphs</p>
 <details markdown="0">
 <summary>Abstract</summary>
 <p>
@@ -187,6 +189,7 @@ Office of Naval Research, the Air Force Office of Scientific Research, and Googl
 <span class="inline-talk-title">A Decade of Progress in Convex Bilevel Optimization</span>
 </h3>
 <p class="speaker-affiliation">Cornell University, US</p>
+<p class="speaker-affiliation">Chair: Alain Zemkoho</p>
 <details markdown="0">
 <summary>Abstract</summary>
 <p>
@@ -228,6 +231,7 @@ paper published between 2014 and 2017.
 <span class="inline-talk-title">Recent Advances in First-Order Methods for Continuous Bilevel Optimization</span>
 </h3>
 <p class="speaker-affiliation">University of Minnesota, US</p>
+<p class="speaker-affiliation">Chair: Bo Zeng</p>
 <details markdown="0">
 <summary>Abstract</summary>
 <p>
@@ -270,6 +274,7 @@ Optimization and Applications, and Journal of Global Optimization.
 <span class="inline-talk-title">Some Perspectives on Mixed-Integer Bilevel Optimization</span>
 </h3>
 <p class="speaker-affiliation">University of Zurich, Switzerland</p>
+<p class="speaker-affiliation">Chair: Ramteen Sioshansi</p>
 <details markdown="0">
 <summary>Abstract</summary>
 <p>
