@@ -468,7 +468,6 @@ journals.
 
 <section class="sponsors-section" aria-labelledby="sponsors-title" markdown="0">
 
-<p class="sponsors-eyebrow">With gratitude</p>
 
 <h2 id="sponsors-title" class="sponsors-title">Our Sponsors</h2>
 
