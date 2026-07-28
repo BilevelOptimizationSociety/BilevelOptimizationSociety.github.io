@@ -422,7 +422,7 @@ journals.
     box-shadow: 0 4px 12px rgba(0,0,0,0.06);
   ">
     <img
-      src="images/University-of-Pittsburgh-logo_3.webp"
+      src="images/Pittsburgh_logo.png"
       alt="University of Pittsburgh"
       style="max-width: 210px; max-height: 90px; object-fit: contain;"
     >
