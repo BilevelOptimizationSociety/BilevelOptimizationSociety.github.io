@@ -359,7 +359,9 @@ journals.
 
 ## Sponsors
 
-Sponsorship opportunities are available. Companies interested in supporting ICBO 2026 are invited to contact the Organizing Committee.
+We thank to our sponsors:
+
+<img src="images/sas-logo-blue.jpg" alt="University of Pittsburgh" width="70%">
 
 </div>
 </div>
