@@ -9,7 +9,7 @@ header_subtitle: Pittsburgh 2026
 header_meta: |
   <p class="date">August 2-5, 2026</p>
   <p class="place">CMU - University of Pittsburgh<br> Pittsburgh, USA</p>
-last_updated: July 3, 2026
+last_updated: July 28, 2026
 nav:
   - title: Home
     url: /icbo/2026/index.html
