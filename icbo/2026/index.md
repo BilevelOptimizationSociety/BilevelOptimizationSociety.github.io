@@ -354,18 +354,76 @@ journals.
 </div>
 </div>
 
-<div class="mainstyle2">
-<div class="container">
+## Our Sponsors
 
-## Sponsors
+<p align="center">
+  We gratefully acknowledge the generous support of our sponsors.
+</p>
 
-We thank to our sponsors:
+<div style="
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  margin: 35px 0;
+">
 
-<img src="images/sas-logo-blue.jpg" alt="Sas" width="70%">
+  <div style="
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 260px;
+    height: 140px;
+    padding: 20px;
+    background: #ffffff;
+    border: 1px solid #e5e7eb;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+  ">
+    <img
+      src="images/sas-logo-blue.jpg"
+      alt="SAS"
+      style="max-width: 210px; max-height: 90px; object-fit: contain;"
+    >
+  </div>
 
-<img src="images/lehigh.png" alt="University of Lehigh" width="70%">
+  <div style="
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 260px;
+    height: 140px;
+    padding: 20px;
+    background: #ffffff;
+    border: 1px solid #e5e7eb;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+  ">
+    <img
+      src="images/lehigh.png"
+      alt="Lehigh University"
+      style="max-width: 210px; max-height: 90px; object-fit: contain;"
+    >
+  </div>
 
-<img src="images/Pittsburgh_logo.png" alt="University of Pittsburgh" width="70%">
+  <div style="
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 260px;
+    height: 140px;
+    padding: 20px;
+    background: #ffffff;
+    border: 1px solid #e5e7eb;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+  ">
+    <img
+      src="images/University-of-Pittsburgh-logo_3.webp"
+      alt="University of Pittsburgh"
+      style="max-width: 210px; max-height: 90px; object-fit: contain;"
+    >
+  </div>
 
-</div>
 </div>
