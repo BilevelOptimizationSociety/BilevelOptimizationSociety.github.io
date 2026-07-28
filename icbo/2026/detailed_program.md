@@ -27,9 +27,7 @@ nav:
 
 # ICBO 2026 - Talks by Day and Time
 
-_Author(s), title, and scheduled time for each talk_
-
-_Presenting speaker shown in **bold**. The last speaker of the session always serves as the **session chair**._
+_The presenting speaker is shown in **bold**. The last speaker of the session always serves as the **session chair**._
 
 **Jump to a day:** [Monday, August 3](#monday-august-3) &middot; [Tuesday, August 4](#tuesday-august-4) &middot; [Wednesday, August 5](#wednesday-august-5)
 
