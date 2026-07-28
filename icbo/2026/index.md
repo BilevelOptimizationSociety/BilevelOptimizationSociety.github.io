@@ -356,78 +356,33 @@ journals.
 
 ---
 
-## Our Sponsors
+<div class="mainstyle2">
+<div class="container">
 
-<p align="center">
-  We gratefully acknowledge the generous support of our sponsors.
+<section class="sponsors-section" aria-labelledby="sponsors-title" markdown="0">
+
+<p class="sponsors-eyebrow">With gratitude</p>
+
+<h2 id="sponsors-title" class="sponsors-title">Our Sponsors</h2>
+
+<p class="sponsors-description">
+We gratefully acknowledge the generous support of our sponsors, whose contributions help make ICBO 2026 possible.
 </p>
 
-<div style="
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-  gap: 30px;
-  margin: 35px 0;
-">
-
-  <div style="
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 260px;
-    height: 140px;
-    padding: 20px;
-    background: #ffffff;
-    border: 1px solid #e5e7eb;
-    border-radius: 12px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.06);
-  ">
-    <img
-      src="images/sas-logo-blue.jpg"
-      alt="SAS"
-      style="max-width: 210px; max-height: 90px; object-fit: contain;"
-    >
-  </div>
-
-  <div style="
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 260px;
-    height: 140px;
-    padding: 20px;
-    background: #ffffff;
-    border: 1px solid #e5e7eb;
-    border-radius: 12px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.06);
-  ">
-    <img
-      src="images/lehigh.png"
-      alt="Lehigh University"
-      style="max-width: 210px; max-height: 90px; object-fit: contain;"
-    >
-  </div>
-
-  <div style="
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 260px;
-    height: 140px;
-    padding: 20px;
-    background: #ffffff;
-    border: 1px solid #e5e7eb;
-    border-radius: 12px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.06);
-  ">
-    <img
-      src="images/Pittsburgh_logo.png"
-      alt="University of Pittsburgh"
-      style="max-width: 210px; max-height: 90px; object-fit: contain;"
-    >
-  </div>
-
+<div class="sponsors-grid" markdown="0">
+<div class="sponsor-logo sponsor-sas">
+<img src="images/sas-logo-blue.jpg" alt="SAS">
+</div>
+<div class="sponsor-logo sponsor-lehigh">
+<img src="images/lehigh.png" alt="Lehigh University">
+</div>
+<div class="sponsor-logo sponsor-pittsburgh">
+<img src="images/Pittsburgh_logo.png" alt="University of Pittsburgh">
+</div>
 </div>
 
+</section>
+
+</div>
+</div>
 ---
