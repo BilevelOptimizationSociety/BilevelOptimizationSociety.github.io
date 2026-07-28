@@ -163,7 +163,7 @@ The detailed program can be found in the following <a href="assets/detailed_prog
 
 <tr>
 <th scope="row">08:30</th>
-<td class="lecture event">Lecture 1, Talk 1 (CMU)</td>
+<td class="lecture event">Lecture by Zhaosong Lu (Part 1; at CMU)</td>
 <td class="plenary event">Plenary talk I: Leonardo Lozano</td>
 <td class="session"><a href="detailed_program.html#aug4-morning-1">Morning session I</a></td>
 <td class="session"><a href="detailed_program.html#aug5-morning-1">Morning session I</a></td>
@@ -179,7 +179,7 @@ The detailed program can be found in the following <a href="assets/detailed_prog
 
 <tr>
 <th scope="row">10:30</th>
-<td class="lecture event">Lecture 1, Talk 2 (CMU)</td>
+<td class="lecture event">Lecture by Zhaosong Lu (Part 2; at CMU)</td>
 <td class="session"><a href="detailed_program.html#aug3-morning-1">Morning session I</a></td>
 <td class="session"><a href="detailed_program.html#aug4-morning-2">Morning session II</a></td>
 <td class="session"><a href="detailed_program.html#aug5-morning-2">Morning session II</a></td>
@@ -195,7 +195,7 @@ The detailed program can be found in the following <a href="assets/detailed_prog
 
 <tr>
 <th scope="row">13:30</th>
-<td class="lecture event">Lecture 2, Talk 1 (CMU)</td>
+<td class="lecture event">Lecture by Oleg Prokopyev (Part 1; at CMU)</td>
 <td class="session"><a href="detailed_program.html#aug3-afternoon-1">Afternoon session I</a></td>
 <td class="session"><a href="detailed_program.html#aug4-afternoon-1">Afternoon session I</a></td>
 <td>Closing remarks + Lunch break</td>
@@ -211,7 +211,7 @@ The detailed program can be found in the following <a href="assets/detailed_prog
 
 <tr>
 <th scope="row">15:30</th>
-<td class="lecture event">Lecture 2, Talk 2 (CMU)</td>
+<td class="lecture event">Lecture by Oleg Prokopyev (Part 1; at CMU)</td>
 <td class="session"><a href="detailed_program.html#aug3-afternoon-2">Afternoon session II</a></td>
 <td class="plenary event">Plenary talk II: Amy Greenwald</td>
 <td class="empty">—</td>
