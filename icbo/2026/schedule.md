@@ -164,7 +164,7 @@ The detailed program can be found in the following <a href="assets/detailed_prog
 <tr>
 <th scope="row">08:30</th>
 <td class="lecture event">Lecture 1, Talk 1 (CMU)</td>
-<td class="plenary event">Plenary talk I</td>
+<td class="plenary event">Plenary talk I: Leonardo Lozano</td>
 <td class="session"><a href="detailed_program.html#aug4-morning-1">Morning session I</a></td>
 <td class="session"><a href="detailed_program.html#aug5-morning-1">Morning session I</a></td>
 </tr>
@@ -190,7 +190,7 @@ The detailed program can be found in the following <a href="assets/detailed_prog
 <td>Lunch break</td>
 <td>Lunch break</td>
 <td>Lunch break</td>
-<td class="plenary event">Plenary talk III</td>
+<td class="plenary event">Plenary talk III: Shoham Sabach</td>
 </tr>
 
 <tr>
@@ -213,7 +213,7 @@ The detailed program can be found in the following <a href="assets/detailed_prog
 <th scope="row">15:30</th>
 <td class="lecture event">Lecture 2, Talk 2 (CMU)</td>
 <td class="session"><a href="detailed_program.html#aug3-afternoon-2">Afternoon session II</a></td>
-<td class="plenary event">Plenary talk II</td>
+<td class="plenary event">Plenary talk II: Amy Greenwald</td>
 <td class="empty">—</td>
 </tr>
 
