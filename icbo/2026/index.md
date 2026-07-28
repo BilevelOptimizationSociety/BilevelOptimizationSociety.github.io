@@ -477,13 +477,13 @@ We gratefully acknowledge the generous support of our sponsors, whose contributi
 
 <div class="sponsors-grid" markdown="0">
 <div class="sponsor-logo sponsor-sas">
-<img src="images/sas-logo-blue.jpg" alt="SAS">
+<img src="images/sas-logo-blue.jpg" alt="SAS" width="70%">
 </div>
 <div class="sponsor-logo sponsor-lehigh">
-<img src="images/lehigh.png" alt="Lehigh University">
+<img src="images/lehigh.png" alt="Lehigh University" width="70%">
 </div>
 <div class="sponsor-logo sponsor-pittsburgh">
-<img src="images/Pittsburgh_logo.png" alt="University of Pittsburgh">
+<img src="images/Pittsburgh_logo.png" alt="University of Pittsburgh" width="70%">
 </div>
 </div>
 
