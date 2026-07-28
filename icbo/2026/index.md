@@ -354,76 +354,160 @@ journals.
 </div>
 </div>
 
-## Our Sponsors
+<style>
+  .sponsors-section {
+    max-width: 1150px;
+    margin: 70px auto 45px;
+    padding: 45px 30px 40px;
+    text-align: center;
+    background: #ffffff;
+    border-top: 1px solid #dfe4ea;
+    border-bottom: 1px solid #dfe4ea;
+  }
 
-<p align="center">
-  We gratefully acknowledge the generous support of our sponsors.
-</p>
+  .sponsors-label {
+    margin: 0 0 8px;
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: #6b7280;
+  }
 
-<div style="
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-  gap: 30px;
-  margin: 35px 0;
-">
+  .sponsors-title {
+    margin: 0 0 12px;
+    font-size: 2rem;
+    font-weight: 600;
+    color: #1f2937;
+  }
 
-  <div style="
+  .sponsors-message {
+    max-width: 680px;
+    margin: 0 auto;
+    font-size: 1.05rem;
+    line-height: 1.65;
+    color: #5f6875;
+  }
+
+  .sponsors-logos {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    align-items: center;
+    max-width: 1100px;
+    margin: 38px auto 0;
+  }
+
+  .sponsor-item {
+    position: relative;
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 260px;
-    height: 140px;
-    padding: 20px;
-    background: #ffffff;
-    border: 1px solid #e5e7eb;
-    border-radius: 12px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.06);
-  ">
-    <img
-      src="images/sas-logo-blue.jpg"
-      alt="SAS"
-      style="max-width: 210px; max-height: 90px; object-fit: contain;"
-    >
+    min-height: 145px;
+    padding: 20px 35px;
+  }
+
+  .sponsor-item + .sponsor-item::before {
+    content: "";
+    position: absolute;
+    top: 25%;
+    bottom: 25%;
+    left: 0;
+    width: 1px;
+    background: #e5e7eb;
+  }
+
+  .sponsor-item img {
+    display: block;
+    width: auto;
+    max-width: 100%;
+    object-fit: contain;
+    transition:
+      transform 0.2s ease,
+      opacity 0.2s ease;
+  }
+
+  .sponsor-item:hover img {
+    transform: translateY(-3px);
+    opacity: 0.9;
+  }
+
+  /* Individual adjustments for visual balance */
+
+  .sponsor-sas img {
+    max-width: 220px;
+    max-height: 90px;
+  }
+
+  .sponsor-lehigh img {
+    max-width: 330px;
+    max-height: 105px;
+  }
+
+  .sponsor-pittsburgh img {
+    max-width: 350px;
+    max-height: 110px;
+  }
+
+  @media (max-width: 800px) {
+    .sponsors-section {
+      margin: 45px 15px 30px;
+      padding: 35px 20px;
+    }
+
+    .sponsors-logos {
+      grid-template-columns: 1fr;
+      margin-top: 25px;
+    }
+
+    .sponsor-item {
+      min-height: 130px;
+      padding: 30px 15px;
+    }
+
+    .sponsor-item + .sponsor-item::before {
+      top: 0;
+      bottom: auto;
+      left: 20%;
+      width: 60%;
+      height: 1px;
+    }
+  }
+</style>
+
+<section class="sponsors-section">
+
+  <p class="sponsors-label">With gratitude</p>
+
+  <h2 class="sponsors-title">Our Sponsors</h2>
+
+  <p class="sponsors-message">
+    We gratefully acknowledge the generous support of our sponsors,
+    whose contributions help make this event possible.
+  </p>
+
+  <div class="sponsors-logos">
+
+    <div class="sponsor-item sponsor-sas">
+      <img
+        src="images/sas-logo-blue.jpg"
+        alt="SAS"
+      >
+    </div>
+
+    <div class="sponsor-item sponsor-lehigh">
+      <img
+        src="images/lehigh.png"
+        alt="Lehigh University"
+      >
+    </div>
+
+    <div class="sponsor-item sponsor-pittsburgh">
+      <img
+        src="images/Pittsburgh_logo.png"
+        alt="University of Pittsburgh"
+      >
+    </div>
+
   </div>
 
-  <div style="
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 260px;
-    height: 140px;
-    padding: 20px;
-    background: #ffffff;
-    border: 1px solid #e5e7eb;
-    border-radius: 12px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.06);
-  ">
-    <img
-      src="images/lehigh.png"
-      alt="Lehigh University"
-      style="max-width: 210px; max-height: 90px; object-fit: contain;"
-    >
-  </div>
-
-  <div style="
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 260px;
-    height: 140px;
-    padding: 20px;
-    background: #ffffff;
-    border: 1px solid #e5e7eb;
-    border-radius: 12px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.06);
-  ">
-    <img
-      src="images/Pittsburgh_logo.png"
-      alt="University of Pittsburgh"
-      style="max-width: 210px; max-height: 90px; object-fit: contain;"
-    >
-  </div>
-
-</div>
+</section>
