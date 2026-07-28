@@ -365,7 +365,7 @@ We thank to our sponsors:
 
 <img src="images/lehigh.png" alt="University of Lehigh" width="70%">
 
-<img src="images/Pittsburgh_logo" alt="University of Pittsburgh" width="70%">
+<img src="images/Pittsburgh_logo.png" alt="University of Pittsburgh" width="70%">
 
 </div>
 </div>
