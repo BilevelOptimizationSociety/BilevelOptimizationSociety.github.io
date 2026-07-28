@@ -91,6 +91,113 @@ extra_style: |
     line-height: 1.55;
     text-align: justify;
   }
+
+    /* Sponsors */
+
+  .sponsors-section {
+    padding: 3.5rem 0 4rem;
+    text-align: center;
+  }
+
+  .sponsors-eyebrow {
+    margin: 0 0 0.4rem;
+    color: var(--maincolor2link);
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+  }
+
+  .sponsors-title {
+    margin: 0 0 0.75rem;
+    color: var(--navbar);
+    font-size: 2.4rem;
+    font-weight: 500;
+  }
+
+  .sponsors-description {
+    max-width: 700px;
+    margin: 0 auto;
+    color: #555;
+    font-size: 1.05rem;
+    line-height: 1.6;
+  }
+
+  .sponsors-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    align-items: stretch;
+    max-width: 1100px;
+    margin: 2.5rem auto 0;
+    overflow: hidden;
+    background: #fff;
+    border: 1px solid #dce4ec;
+    border-radius: 14px;
+    box-shadow: 0 6px 22px rgba(30, 68, 115, 0.08);
+  }
+
+  .sponsor-logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 0;
+    min-height: 175px;
+    padding: 2.2rem 2rem;
+  }
+
+  .sponsor-logo + .sponsor-logo {
+    border-left: 1px solid #e3e8ed;
+  }
+
+  .sponsor-logo img {
+    display: block;
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    object-fit: contain;
+    transition: transform 0.2s ease;
+  }
+
+  .sponsor-logo:hover img {
+    transform: scale(1.025);
+  }
+
+  .sponsor-sas img {
+    max-height: 88px;
+  }
+
+  .sponsor-lehigh img {
+    max-height: 76px;
+  }
+
+  .sponsor-pittsburgh img {
+    max-height: 88px;
+  }
+
+  @media (max-width: 800px) {
+    .sponsors-section {
+      padding: 2.75rem 0 3rem;
+    }
+
+  .sponsors-title {
+      font-size: 2rem;
+    }
+
+  .sponsors-grid {
+      grid-template-columns: 1fr;
+      max-width: 520px;
+    }
+
+  .sponsor-logo {
+      min-height: 145px;
+      padding: 2rem;
+    }
+
+  .sponsor-logo + .sponsor-logo {
+      border-top: 1px solid #e3e8ed;
+      border-left: 0;
+    }
+  }
 ---
 <div class="highlight">
 <div class="container">
