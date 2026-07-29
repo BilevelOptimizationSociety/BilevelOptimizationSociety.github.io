@@ -436,7 +436,7 @@ journals.
 - [Jacqueline Morgan](https://csef.it/people/jacqueline-morgan/)
 - [Ted Ralphs](https://coral.ise.lehigh.edu/~ted/)
 - [Martin Schmidt (Chair)](https://martinschmidt.squarespace.com/)
-- [Ramteen Sionshansi](https://epp.engineering.cmu.edu/directory/bios/sioshansi-ramteen.html)
+- [Ramteen Sioshansi](https://epp.engineering.cmu.edu/directory/bios/sioshansi-ramteen.html)
 - [Anton Svensson](https://scholar.google.com/citations?user=beBzrF8AAAAJ&hl=en)
 - [Sonja Wogrin](https://tugraz.elsevierpure.com/en/persons/sonja-wogrin)
 - [Alain Zemkoho](https://www.southampton.ac.uk/people/5xd5hn/professor-alain-zemkoho)
