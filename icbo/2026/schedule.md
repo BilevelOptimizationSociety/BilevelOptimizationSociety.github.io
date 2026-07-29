@@ -233,13 +233,6 @@ The detailed program can be found in the following <a href="assets/detailed_prog
 <td class="empty">—</td>
 </tr>
 
-<tr>
-<th scope="row">20:30</th>
-<td class="empty">—</td>
-<td>End of reception</td>
-<td>End of dinner</td>
-<td class="empty">—</td>
-</tr>
 </tbody>
 </table>
 </div>
