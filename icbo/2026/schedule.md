@@ -220,7 +220,7 @@ The detailed program can be found in the following <a href="assets/detailed_prog
 <tr>
 <th scope="row">17:00</th>
 <td>Dinner</td>
-<td class="event">BOS - Business meeting</td>
+<td class="event">BOS - Business meeting (Room G30)</td>
 <td class="empty">—</td>
 <td class="empty">—</td>
 </tr>
