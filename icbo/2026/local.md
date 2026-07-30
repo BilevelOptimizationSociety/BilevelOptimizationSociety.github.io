@@ -31,6 +31,10 @@ nav:
 
 The conference will take place across two campuses in the vibrant city of Pittsburgh. The summer school and tutorial sessions will be hosted at Carnegie Mellon University, while the main conference sessions will be held at the University of Pittsburgh.
 
+Sunday summer school: B103 Learning Hall, Hamerschlag Hall, Carnegie Mellon University, 5000 Forbes Avenue
+
+Monday–Wednesday conference sessions: Ground floor, Benedum Hall, University of Pittsburgh, 3700 O’Hara Street
+
 </div>
 </div>
 
