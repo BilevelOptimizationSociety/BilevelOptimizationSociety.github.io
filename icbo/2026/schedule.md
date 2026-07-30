@@ -130,6 +130,8 @@ extra_style: |
 
 The detailed program can be found in the following <a href="assets/detailed_program.pdf" target="_blank" rel="noopener noreferrer">PDF</a>, or as a [web page](/icbo/2026/detailed_program.html).
 
+All plenary talks will be held in Room 102, which is also the location of Monday’s welcome reception.
+
 <div class="schedule-wrapper">
 <table class="schedule-table" markdown="0">
 <caption>Swipe to see more days</caption>
@@ -235,8 +237,6 @@ The detailed program can be found in the following <a href="assets/detailed_prog
 
 </tbody>
 </table>
-
-All plenary talks will be held in Room 102, which is also the location of Monday’s welcome reception.
 
 </div>
 
