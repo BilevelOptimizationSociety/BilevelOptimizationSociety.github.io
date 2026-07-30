@@ -235,6 +235,9 @@ The detailed program can be found in the following <a href="assets/detailed_prog
 
 </tbody>
 </table>
+
+All plenary talks will be held in Room 102, which is also the location of Monday’s welcome reception.
+
 </div>
 
 </div>
@@ -242,8 +245,6 @@ The detailed program can be found in the following <a href="assets/detailed_prog
 
 <div class="mainstyle1">
 <div class="container">
-
-All plenary talks will be held in Room 102, which is also the location of Monday’s welcome reception.
 
 ## Meals
 
