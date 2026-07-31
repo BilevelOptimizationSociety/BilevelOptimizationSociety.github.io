@@ -213,7 +213,7 @@ All plenary talks will be held in Room 102, which is also the location of Monday
 
 <tr>
 <th scope="row">15:30</th>
-<td class="lecture event">Lecture by Oleg Prokopyev (Part 1; at CMU)</td>
+<td class="lecture event">Lecture by Oleg Prokopyev (Part 2; at CMU)</td>
 <td class="session"><a href="detailed_program.html#aug3-afternoon-2">Afternoon session II</a></td>
 <td class="plenary event">Plenary talk II: Amy Greenwald</td>
 <td class="empty">—</td>
