@@ -61,5 +61,9 @@ Please note that all room blocks have a reservation cutoff of July 1, 2026. We s
 
 **Tip:** If you plan to stay at one of the conference hotels, we recommend making your reservation as soon as possible to ensure availability within the room block. We look forward to welcoming you to Pittsburgh and to a successful conference!
 
+## Hotel Accommodations
+
+A list of dining options near the conference: PDF.
+
 </div>
 </div>
