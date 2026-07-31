@@ -63,7 +63,7 @@ Please note that all room blocks have a reservation cutoff of July 1, 2026. We s
 
 ## Hotel Accommodations
 
-A list of dining options near the conference: PDF.
+A list of dining options near the conference: <a href="assets/icbo2026-dining-near-benedum-hall-1.pdf" target="_blank" rel="noopener noreferrer">PDF</a>.
 
 </div>
 </div>
