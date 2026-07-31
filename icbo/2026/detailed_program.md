@@ -56,7 +56,7 @@ _Talks shown with ~~strikethrough~~ have been cancelled._
 | **Ebrahimi, Mohammadjavad**; Shanbhag, Uday V.; Yousefian, Farzad | On the Resolution of Stochastic MPECs over Networks: Distributed Implicit Zeroth-Order Gradient Tracking Methods |
 | Soto-Vergel, Angelo; **Walteros, Jose**; Ramirez-Rios, Diana; Borrero, Juan | A Bilevel Stochastic Optimization Framework for Strategic Deployment of Survivor Geolocation Systems and Rescue Teams in Post-Disaster Operation |
 
-#### SESSION 3: Bilevel Optimization for the Electricity Sector 1 (Room G36)
+#### SESSION 3: Bilevel Optimization for the Electricity Sector 1 (Room G27)
 
 | Author(s) | Title |
 |---|---|
@@ -84,7 +84,7 @@ _Talks shown with ~~strikethrough~~ have been cancelled._
 | ~~**Dey, Soumitra**~~ | ~~A New Class of Convex Functions and Characterizations~~ |
 | Sharifi, Sina; **Yazdandoost Hamedani, Erfan**; Fazlyab, Mahyar | Sequential QCQP for Bilevel Optimization with Line Search |
 
-#### SESSION 6: Location Problems (Room G36)
+#### SESSION 6: Location Problems (Room G27)
 
 | Author(s) | Title |
 |---|---|
@@ -111,7 +111,7 @@ _Talks shown with ~~strikethrough~~ have been cancelled._
 | **Wu, Guanting**; Zhang, Peter | Learning from Experts under Decision Coupling: An Application to Robust Disaster Response |
 | **Holani, Anurag**; Gupta, Rishabh; Zhang, Qi | An inverse mixed-integer optimization framework for learning interpretable models of expert decision-making |
 
-#### SESSION 9: Equilibria and Bilevel Optimization (Room G36)
+#### SESSION 9: Equilibria and Bilevel Optimization (Room G27)
 
 | Author(s) | Title |
 |---|---|
@@ -142,7 +142,7 @@ _Talks shown with ~~strikethrough~~ have been cancelled._
 | **Bienstock, Daniel**; Sisson, Blake | Derisking solutions to optimization problems |
 | Beck, Yasmine; Ljubić, Ivana; **Yan, Wenjin** | Robust Combinatorial Optimization with Decision-Dependent Budget Uncertainty |
 
-#### SESSION 12: Selected Applications of Bilevel Optimization 1 (Room G36)
+#### SESSION 12: Selected Applications of Bilevel Optimization 1 (Room G27)
 
 | Author(s) | Title |
 |---|---|
@@ -171,7 +171,7 @@ _Talks shown with ~~strikethrough~~ have been cancelled._
 | **Sapirstein, Abel** | MOMS: A Model for Optimizing Maternal Systems of Risk-Appropriate Care |
 | **Song, Mingyao** | Bi-Level Predict-then-Optimize for Contract Interactions in Livestream Shopping |
 
-#### SESSION 15: Bilevel and Inverse Optimization 2 (Room G36)
+#### SESSION 15: Bilevel and Inverse Optimization 2 (Room G27)
 
 | Author(s) | Title |
 |---|---|
@@ -199,7 +199,7 @@ _Talks shown with ~~strikethrough~~ have been cancelled._
 | Elrefaei, Jessica; Hua, Kaixun; Tran, Hoang; **Borrero, Juan** | Graph4BiLO: Graph-Based Value Function Approximation for Bilevel Optimization |
 | **Zhang, Yilang**; Li, Bingcong; Giannakis, Georgios B. | Learnable Loss Geometries with Mirror Descent for Scalable and Convergent Meta-Learning |
 
-#### SESSION 18: Bilevel Optimization for the Electricity Sector 2 (Room G36)
+#### SESSION 18: Bilevel Optimization for the Electricity Sector 2 (Room G27)
 
 | Author(s) | Title |
 |---|---|
@@ -229,7 +229,7 @@ _Talks shown with ~~strikethrough~~ have been cancelled._
 | **Thürauf, Johannes**; Lefebvre, Henri | Robust Bilevel Optimization with a Wait-and-See Follower: A Column-and-Constraint Generation Approach |
 | **Beck, Yasmine**; Büsing, Christina; Ljubić, Ivana | Exact Methods for Solving k-Delete Recoverable Robust 0–1 Problems Under Budgeted Uncertainty |
 
-#### SESSION 21: Interdiction Problems (Room G36)
+#### SESSION 21: Interdiction Problems (Room G27)
 
 | Author(s) | Title |
 |---|---|
@@ -257,7 +257,7 @@ _Talks shown with ~~strikethrough~~ have been cancelled._
 | **Bohne, Jason**; Rosenberg, David; Kazantsev, Gary; Polak, Pawel | Bregman Geometry for Stochastic Online Bilevel Optimization |
 | **Ji, Kaiyi** | Lower Complexity Bounds for Nonconvex-Strongly-Convex Bilevel Optimization with First-Order Oracles |
 
-#### SESSION 24: Structural and Multiobjective Perspectives in Bilevel Optimization (Room G36)
+#### SESSION 24: Structural and Multiobjective Perspectives in Bilevel Optimization (Room G27)
 
 | Author(s) | Title |
 |---|---|
