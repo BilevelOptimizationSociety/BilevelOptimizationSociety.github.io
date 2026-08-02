@@ -99,7 +99,7 @@ _Talks shown with ~~strikethrough~~ have been cancelled._
 
 | Author(s) | Title |
 |---|---|
-| Cotrina, John; Flores, Gonzalo; **Salas, David**; Svensson, Anton | Stability of expectation with decision-dependent uncertainty over moving sets |
+| ~~Cotrina, John; Flores, Gonzalo; **Salas, David**; Svensson, Anton~~ | ~~Stability of expectation with decision-dependent uncertainty over moving sets~~ |
 | **Vasquez, Sebastian**; Bodur, Merve; Pagnoncelli, Bernardo | Bridging Stochastic and Bilevel Optimization: A Unified Framework for Hierarchical Decisions under Uncertainty |
 | **Xie, Yu**; Ralphs, Ted K; Prokopyev, Oleg | Robustness and Bounded Rationality in Mixed Integer Bilevel Linear Optimization |
 
