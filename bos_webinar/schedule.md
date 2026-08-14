@@ -67,6 +67,13 @@ extra_style: |
     color: #777;
   }
 
+  .season-archive {
+    margin-top: 36px;
+    margin-bottom: 28px;
+    padding-top: 16px;
+    border-top: 1px solid #ddd;
+  }
+
   .season-archive summary {
     cursor: pointer;
     font-size: 1.5em;
