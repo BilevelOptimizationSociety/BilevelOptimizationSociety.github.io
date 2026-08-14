@@ -44,7 +44,7 @@ extra_style: |
 
 ## Organizers
 
-The current organizers are Kuang Bai, Yasmine Beck, and Nagisa Sugishita. If you would like to give a talk in the BOS Webinar Series, please contact Nagisa Sugishita at nagisa [dot] sugishita [at] hec [dot] ca.
+The current organizers are Yasmine Beck and Nagisa Sugishita. If you would like to give a talk in the BOS Webinar Series, please contact Nagisa Sugishita at nagisa [dot] sugishita [at] hec [dot] ca.
 
 </div>
 </div>
