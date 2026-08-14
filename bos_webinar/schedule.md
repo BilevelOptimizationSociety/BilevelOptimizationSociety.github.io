@@ -66,6 +66,18 @@ extra_style: |
   .coming-soon {
     color: #777;
   }
+
+  .season-archive summary {
+  cursor: pointer;
+  font-size: 1.5em;
+  font-weight: 600;
+  margin: 24px 0;
+}
+
+.season-archive summary:hover {
+  text-decoration: underline;
+}
+
 ---
 <div class="mainstyle2">
 <div class="container">
@@ -156,9 +168,13 @@ extra_style: |
 
 <br>
 
-## Schedule of Season 1
+<details class="season-archive">
+<summary>Season 1 — View past schedule</summary>
 
-A detailed program can be found in the following [link](https://drive.google.com/file/d/1NNAaIS0TTqC9NuG3tDbXwCK5tkgnMZKb/view?usp=share_link)
+<p>
+A detailed program can be found in the following
+<a href="https://drive.google.com/file/d/1NNAaIS0TTqC9NuG3tDbXwCK5tkgnMZKb/view?usp=share_link" target="_blank" rel="noopener noreferrer">link</a>.
+</p>
 
 <table class="seminar-table" markdown="0">
 <colgroup>
@@ -251,6 +267,8 @@ View slides
 </tr>
 </tbody>
 </table>
+
+</details>
 
 </div>
 </div>
