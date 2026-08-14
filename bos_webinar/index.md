@@ -1,4 +1,13 @@
 ---
+layout: microsite
+permalink: /bos_webinar/index.html
+title: BOS Webinar
+site_root: /bos_webinar
+css_dir: css
+header_title: Bilevel Optimization Webinar
+header_subtitle: From the Bilevel Optimization Society
+last_updated: "August 14th, 2026"
+---
 header_title: Bilevel Optimization Webinar
 header_subtitle: From the Bilevel Optimization Society
 last_updated: "August 14th, 2026"
