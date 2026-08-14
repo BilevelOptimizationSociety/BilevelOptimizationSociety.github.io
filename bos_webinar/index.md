@@ -85,7 +85,7 @@ The schedule of upcoming sessions can be found [here](schedule.html).
 - Vladimir Stadnichuk
 - Jacqueline Morgan
 
-<details class="season-archive" markdown="0">
+<details class="season-archive">
 <summary>Season 1 — View past speakers</summary>
 - [Miguel Anjos](https://scholar.google.com/citations?user=LP39pxQAAAAJ)
 - [Didier Aussel](https://scholar.google.com/citations?user=cuFrRNoAAAAJ&hl=en&oi=ao)
