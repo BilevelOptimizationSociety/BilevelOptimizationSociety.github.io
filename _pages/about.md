@@ -30,10 +30,10 @@ The bilevel optimization society (BOS) is a technical section of the Mathematica
 
 #### Upcoming Events
 
-This is a (non-comprehensive) list with upcoming conferences with bilevel optimization sessions:
+No new events to show up to now.
 
-- **Jul 08 - Jul 10, 2026:** [EUROPT 2026 – Bilevel Optimization Stream](https://www.jku.at/europt2026/)
-- **Aug 02 - Aug 05, 2026:** [International Conference on Bilevel Optimization – ICBO 2026](/icbo/2026/index.html)
+- ~~Jul 08 - Jul 10, 2026:** [EUROPT 2026 – Bilevel Optimization Stream](https://www.jku.at/europt2026/)~~
+- ~~Aug 02 - Aug 05, 2026:** [International Conference on Bilevel Optimization – ICBO 2026](/icbo/2026/index.html)~~
 - ~~Oct 06 - Oct 10, 2025: [Kaiserslautern Applied and Industrial Mathematics Days – KLAIM 2025](https://www.itwm.fraunhofer.de/en/fairs_events/2025/2025_10_06_klaim_en.html)~~
 
 If you want to promote your bilevel session in a conference, please [email us](mailto:bileveloptimizationsociety@gmail.com).
