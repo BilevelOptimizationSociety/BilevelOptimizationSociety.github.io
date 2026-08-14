@@ -168,9 +168,8 @@ extra_style: |
 
 <br>
 
-<details class="season-archive">
+<details class="season-archive" markdown="0">
 <summary>Season 1 — View past schedule</summary>
-
 <p>
 A detailed program can be found in the following
 <a href="https://drive.google.com/file/d/1NNAaIS0TTqC9NuG3tDbXwCK5tkgnMZKb/view?usp=share_link" target="_blank" rel="noopener noreferrer">link</a>.
