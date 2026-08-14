@@ -50,7 +50,7 @@ The webinar series features two possible formats:
 
 each followed by discussion.
 
-Please become a BOS member to receive updates and Microsoft Teams links for upcoming BOS webinars. To become a BOS member, we invite you to fill the [following memebership form](https://docs.google.com/forms/d/1nmC8XYwY1xaloMbe8tXL4Uwg4QoHEKwpoV1G7SD0Qkg/viewform?edit_requested=true).
+Please become a BOS member to receive updates and Microsoft Teams links for upcoming BOS webinars. To become a BOS member, we invite you to fill the [following memebership form](https://docs.google.com/forms/d/e/1FAIpQLSdpbycN_kQYh7smvsbI8N121GF9U7T5QVZOvz1yr0v080pUzg/viewform).
 
 </div>
 </div>
