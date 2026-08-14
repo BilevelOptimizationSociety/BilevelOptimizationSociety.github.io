@@ -66,12 +66,6 @@ The current organizers are Kuang Bai, Yasmine Beck, and Nagisa Sugishita. If you
 <div class="descripcion">Nagisa Sugishita is a postdoctoral fellow at HEC Montréal since March 2025. He completed his PhD at the University of Edinburgh in September 2022. His research interests range from applying bilevel programming to the development of sustainable and equitable transportation systems to studying the computational complexity of bilevel optimization.</div>
 </div>
 
-<div class="foto">
-
-![Kuang Bai picture](images/KuangBai.jpeg)
-
-<div class="descripcion">Kuang Bai holds a full professorship at Hunan University since 2025. He completed his PhD at the University of Victoria in 2020. Then he served as a Research Assistant Professor at Hong Kong Polytechnic University from 2020 to 2024. His research interests lie in the fields of variational analysis and its application to optimality theory of bilevel optimization programs.</div>
-</div>
 
 </div>
 </div>
