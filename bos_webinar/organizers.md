@@ -6,7 +6,7 @@ site_root: /bos_webinar
 css_dir: css
 header_title: Bilevel Optimization Webinar
 header_subtitle: From the Bilevel Optimization Society
-last_updated: February 16, 2026
+last_updated: August 14th, 2026
 nav:
   - title: Home
     url: /bos_webinar/index.html
