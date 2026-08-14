@@ -85,17 +85,19 @@ The schedule of upcoming sessions can be found [here](schedule.html).
 - Vladimir Stadnichuk
 - Jacqueline Morgan
 
-<details class="season-archive">
+<details class="season-archive" markdown="0">
 <summary>Season 1 — View past speakers</summary>
-- [Miguel Anjos](https://scholar.google.com/citations?user=LP39pxQAAAAJ)
-- [Didier Aussel](https://scholar.google.com/citations?user=cuFrRNoAAAAJ&hl=en&oi=ao)
-- [Martina Cerulli](https://scholar.google.com/citations?user=noquU2sAAAAJ&hl=en&oi=ao)
-- [Stephan Dempe](https://scholar.google.com/citations?user=51BPMYwAAAAJ&hl=en&oi=ao)
-- [Bo Lin](https://scholar.google.com/citations?user=hmB6_DIAAAAJ&hl=en&oi=sra)
-- [Mohammad Sadegh Salehi](https://scholar.google.com/citations?user=bunZmJsAAAAJ&hl=en&oi=ao)
-- [Kübra Tanınmış](https://scholar.google.com/citations?user=KwgqYjwAAAAJ&hl=en&oi=ao)
-- [Sebastián Vasquez](https://scholar.google.com/citations?user=rZ6bpuUAAAAJ&hl=en)
-- [Noah Weninger](https://scholar.google.com/citations?user=M14Wb0gAAAAJ&hl=en&oi=ao)
+<ul>
+<li><a href="https://scholar.google.com/citations?user=LP39pxQAAAAJ">Miguel Anjos</a></li>
+<li><a href="https://scholar.google.com/citations?user=cuFrRNoAAAAJ&hl=en&oi=ao">Didier Aussel</a></li>
+<li><a href="https://scholar.google.com/citations?user=noquU2sAAAAJ&hl=en&oi=ao">Martina Cerulli</a></li>
+<li><a href="https://scholar.google.com/citations?user=51BPMYwAAAAJ&hl=en&oi=ao">Stephan Dempe</a></li>
+<li><a href="https://scholar.google.com/citations?user=hmB6_DIAAAAJ&hl=en&oi=sra">Bo Lin</a></li>
+<li><a href="https://scholar.google.com/citations?user=bunZmJsAAAAJ&hl=en&oi=ao">Mohammad Sadegh Salehi</a></li>
+<li><a href="https://scholar.google.com/citations?user=KwgqYjwAAAAJ&hl=en&oi=ao">Kübra Tanınmış</a></li>
+<li><a href="https://scholar.google.com/citations?user=rZ6bpuUAAAAJ&hl=en">Sebastián Vasquez</a></li>
+<li><a href="https://scholar.google.com/citations?user=M14Wb0gAAAAJ&hl=en&oi=ao">Noah Weninger</a></li>
+</ul>
 </details>
 
 </div>
