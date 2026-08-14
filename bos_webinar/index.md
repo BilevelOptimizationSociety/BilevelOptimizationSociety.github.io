@@ -1,9 +1,4 @@
 ---
-layout: microsite
-permalink: /bos_webinar/index.html
-title: BOS Webinar
-site_root: /bos_webinar
-css_dir: css
 header_title: Bilevel Optimization Webinar
 header_subtitle: From the Bilevel Optimization Society
 last_updated: "August 14th, 2026"
@@ -14,6 +9,24 @@ nav:
     url: /bos_webinar/schedule.html
   - title: Organizers
     url: /bos_webinar/organizers.html
+extra_style: |
+  .season-archive {
+    margin-top: 36px;
+    margin-bottom: 28px;
+    padding-top: 16px;
+    border-top: 1px solid #ddd;
+  }
+
+  .season-archive summary {
+    cursor: pointer;
+    font-size: 1.5em;
+    font-weight: 600;
+    margin: 24px 0;
+  }
+
+  .season-archive summary:hover {
+    text-decoration: underline;
+  }
 ---
 <div class="highlight">
 <div class="container">
