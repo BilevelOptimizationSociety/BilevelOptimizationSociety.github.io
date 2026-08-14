@@ -68,15 +68,15 @@ extra_style: |
   }
 
   .season-archive summary {
-  cursor: pointer;
-  font-size: 1.5em;
-  font-weight: 600;
-  margin: 24px 0;
-}
+    cursor: pointer;
+    font-size: 1.5em;
+    font-weight: 600;
+    margin: 24px 0;
+  }
 
-.season-archive summary:hover {
-  text-decoration: underline;
-}
+  .season-archive summary:hover {
+    text-decoration: underline;
+  }
 
 ---
 <div class="mainstyle2">
