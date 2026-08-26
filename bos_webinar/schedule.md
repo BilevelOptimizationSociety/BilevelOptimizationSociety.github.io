@@ -258,8 +258,8 @@ Watch recording
 <td class="date-cell">June 9, 2026</td>
 <td class="speaker-cell">Didier Aussel (University of Perpignan)</td>
 <td class="recording-cell">
-<a href="assets/BOS_Webinar_Aussel.pdf" target="_blank" rel="noopener noreferrer">
-View slides
+<a href="https://youtu.be/TSelremyljc" target="_blank" rel="noopener noreferrer">
+Watch recording
 </a>
 </td>
 </tr>
