@@ -273,6 +273,9 @@ View slides
 <td class="speaker-cell">Noah Weninger (University of Waterloo)</td>
 <td class="recording-cell">
 <a href="https://youtu.be/p_pnogGIJTA" target="_blank" rel="noopener noreferrer">
+  Watch recording
+</a>
+</td>
 </tr>
 </tbody>
 </table>
