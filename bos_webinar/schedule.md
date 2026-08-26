@@ -284,7 +284,7 @@ View slides
 
 ## Giving a talk
 
-Do you want to give a talk at the BOS Webinar? Please contact Nagisa Sugishita at nagisa [dot] sugishita [at] hec [dot] ca.
+Do you want to give a talk at the BOS Webinar? Please contact us at "bos [dot] webinar [at] gmail [dot] com".
 
 </div>
 </div>
