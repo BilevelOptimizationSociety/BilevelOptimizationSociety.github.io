@@ -284,7 +284,7 @@ View slides
 
 ## Giving a talk
 
-Do you want to give a talk at the BOS Webinar? Please contact us at "bos [dot] webinar [at] gmail [dot] com".
+Do you want to give a talk at the BOS Webinar? Please contact us at bos [dot] webinar [at] gmail [dot] com.
 
 </div>
 </div>
