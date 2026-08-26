@@ -252,6 +252,8 @@ Watch recording
 </td>
 </tr>
 
+
+
 <tr>
 <td class="date-cell">June 9, 2026</td>
 <td class="speaker-cell">Didier Aussel (University of Perpignan)</td>
@@ -269,7 +271,8 @@ View slides
 </tr>
 <tr class="speaker-divider">
 <td class="speaker-cell">Noah Weninger (University of Waterloo)</td>
-<td class="recording-cell"><span class="coming-soon">Coming soon</span></td>
+<td class="recording-cell">
+<a href="https://youtu.be/p_pnogGIJTA" target="_blank" rel="noopener noreferrer">
 </tr>
 </tbody>
 </table>
