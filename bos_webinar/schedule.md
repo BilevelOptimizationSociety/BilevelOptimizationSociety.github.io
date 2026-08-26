@@ -267,7 +267,11 @@ View slides
 <tr>
 <td rowspan="2" class="date-cell">June 23, 2026</td>
 <td class="speaker-cell">Sebastian Vasquez (Carnegie Mellon University)</td>
-<td class="recording-cell"><span class="coming-soon">Coming soon</span></td>
+<td class="recording-cell">
+<a href="https://youtu.be/w1XdpIKAL84" target="_blank" rel="noopener noreferrer">
+  Watch recording
+</a>
+</td>
 </tr>
 <tr class="speaker-divider">
 <td class="speaker-cell">Noah Weninger (University of Waterloo)</td>
