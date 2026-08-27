@@ -337,7 +337,7 @@ paper published between 2014 and 2017.
 <div class="speaker-card">
 <h3>
 <a href="https://zhaosong-lu.github.io/index.html">Zhaosong Lu</a>
-<span class="inline-talk-title">Recent Advances in First-Order Methods for Continuous Bilevel Optimization</span>
+<span class="inline-talk-title">Recent Advances in First-Order Methods for Continuous Bilevel Optimization (<a href="assets/Bilevel_Optimization_Lecture_Zhaosong_Lu.pdf" target="_blank" rel="noopener noreferrer">Slides</a>)</span>
 </h3>
 <p class="speaker-affiliation">University of Minnesota, US</p>
 <p class="speaker-affiliation">Chair: Bo Zeng</p>
