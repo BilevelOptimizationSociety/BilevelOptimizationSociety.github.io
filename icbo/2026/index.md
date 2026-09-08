@@ -21,6 +21,8 @@ nav:
     url: /icbo/2026/submissions.html
   - title: Local Information
     url: /icbo/2026/local.html
+  - title: Special Issue
+    url: /icbo/2026/special-issue.html
 extra_style: |
   .speakers-list {
     margin-bottom: 2.5rem;
@@ -212,6 +214,8 @@ The ICBO is a bi-annual conference on bilevel optimization with the goal to high
 
 ICBO 2026 was supported by the [Bilevel Optimization Society (BOS)](https://bileveloptimization.org/), a section of the [Mathematical Optimization Society (MOS)](http://www.mathopt.org/).
 
+**Special Issue.** On the occasion of ICBO 2026, a special issue of the *EURO Journal on Computational Optimization* devoted to [Recent Advances in Bilevel Optimization](/icbo/2026/special-issue.html) is now open for submissions.
+
 </div>
 </div>
 
@@ -337,7 +341,7 @@ paper published between 2014 and 2017.
 <div class="speaker-card">
 <h3>
 <a href="https://zhaosong-lu.github.io/index.html">Zhaosong Lu</a>
-<span class="inline-talk-title">Recent Advances in First-Order Methods for Continuous Bilevel Optimization</span>
+<span class="inline-talk-title">Recent Advances in First-Order Methods for Continuous Bilevel Optimization (<a href="assets/Bilevel_Optimization_Lecture_Zhaosong_Lu.pdf" target="_blank" rel="noopener noreferrer">Slides</a>)</span>
 </h3>
 <p class="speaker-affiliation">University of Minnesota, US</p>
 <p class="speaker-affiliation">Chair: Bo Zeng</p>
