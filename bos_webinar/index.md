@@ -6,7 +6,10 @@ site_root: /bos_webinar
 css_dir: css
 header_title: Bilevel Optimization Webinar
 header_subtitle: From the Bilevel Optimization Society
-last_updated: February 23, 2026
+last_updated: "August 14th, 2026"
+header_title: Bilevel Optimization Webinar
+header_subtitle: From the Bilevel Optimization Society
+last_updated: "August 14th, 2026"
 nav:
   - title: Home
     url: /bos_webinar/index.html
@@ -14,6 +17,24 @@ nav:
     url: /bos_webinar/schedule.html
   - title: Organizers
     url: /bos_webinar/organizers.html
+extra_style: |
+  .season-archive {
+    margin-top: 36px;
+    margin-bottom: 28px;
+    padding-top: 16px;
+    border-top: 1px solid #ddd;
+  }
+
+  .season-archive summary {
+    cursor: pointer;
+    font-size: 1.5em;
+    font-weight: 600;
+    margin: 24px 0;
+  }
+
+  .season-archive summary:hover {
+    text-decoration: underline;
+  }
 ---
 <div class="highlight">
 <div class="container">
@@ -29,7 +50,7 @@ The webinar series features two possible formats:
 
 each followed by discussion.
 
-Please become a BOS member to receive updates and Microsoft Teams links for upcoming BOS webinars. To become a BOS member, we invite you to fill the [following memebership form](https://docs.google.com/forms/d/1nmC8XYwY1xaloMbe8tXL4Uwg4QoHEKwpoV1G7SD0Qkg/viewform?edit_requested=true).
+Please become a BOS member to receive updates and Microsoft Teams links for upcoming BOS webinars. To become a BOS member, we invite you to fill the [following memebership form](https://docs.google.com/forms/d/e/1FAIpQLSdpbycN_kQYh7smvsbI8N121GF9U7T5QVZOvz1yr0v080pUzg/viewform).
 
 </div>
 </div>
@@ -48,17 +69,35 @@ The schedule of upcoming sessions can be found [here](schedule.html).
 <div class="mainstyle1">
 <div class="container">
 
-## Confirmed Speakers
+## Confirmed Speakers — Season 2
 
-- [Miguel Anjos](https://scholar.google.com/citations?user=LP39pxQAAAAJ)
-- [Didier Aussel](https://scholar.google.com/citations?user=cuFrRNoAAAAJ&hl=en&oi=ao)
-- [Martina Cerulli](https://scholar.google.com/citations?user=noquU2sAAAAJ&hl=en&oi=ao)
-- [Stephan Dempe](https://scholar.google.com/citations?user=51BPMYwAAAAJ&hl=en&oi=ao)
-- [Bo Lin](https://scholar.google.com/citations?user=hmB6_DIAAAAJ&hl=en&oi=sra)
-- [Mohammad Sadegh Salehi](https://scholar.google.com/citations?user=bunZmJsAAAAJ&hl=en&oi=ao)
-- [Kübra Tanınmış](https://scholar.google.com/citations?user=KwgqYjwAAAAJ&hl=en&oi=ao)
-- [Sebastián Vasquez](https://scholar.google.com/citations?user=rZ6bpuUAAAAJ&hl=en)
-- [Noah Weninger](https://scholar.google.com/citations?user=M14Wb0gAAAAJ&hl=en&oi=ao)
+- Sanyou Mei
+- David Villacís
+- José Fernando Camacho Vallejo
+- Federico Battista
+- Eneko Clemente
+- Yongjia Song
+- Dorothee Henke
+- Lasse Wulf
+- Zhaosong Lu
+- Emanuele Pizzari
+- Vladimir Stadnichuk
+- Jacqueline Morgan
+
+<details class="season-archive" markdown="0">
+<summary>Season 1 — View past speakers</summary>
+<ul>
+<li><a href="https://scholar.google.com/citations?user=LP39pxQAAAAJ">Miguel Anjos</a></li>
+<li><a href="https://scholar.google.com/citations?user=cuFrRNoAAAAJ&hl=en&oi=ao">Didier Aussel</a></li>
+<li><a href="https://scholar.google.com/citations?user=noquU2sAAAAJ&hl=en&oi=ao">Martina Cerulli</a></li>
+<li><a href="https://scholar.google.com/citations?user=51BPMYwAAAAJ&hl=en&oi=ao">Stephan Dempe</a></li>
+<li><a href="https://scholar.google.com/citations?user=hmB6_DIAAAAJ&hl=en&oi=sra">Bo Lin</a></li>
+<li><a href="https://scholar.google.com/citations?user=bunZmJsAAAAJ&hl=en&oi=ao">Mohammad Sadegh Salehi</a></li>
+<li><a href="https://scholar.google.com/citations?user=KwgqYjwAAAAJ&hl=en&oi=ao">Kübra Tanınmış</a></li>
+<li><a href="https://scholar.google.com/citations?user=rZ6bpuUAAAAJ&hl=en">Sebastián Vasquez</a></li>
+<li><a href="https://scholar.google.com/citations?user=M14Wb0gAAAAJ&hl=en&oi=ao">Noah Weninger</a></li>
+</ul>
+</details>
 
 </div>
 </div>

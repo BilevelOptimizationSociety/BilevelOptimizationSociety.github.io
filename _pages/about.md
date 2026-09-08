@@ -30,8 +30,6 @@ The bilevel optimization society (BOS) is a technical section of the Mathematica
 
 #### Upcoming Events
 
-This is a (non-comprehensive) list with upcoming conferences with bilevel optimization sessions:
-
 - **Upcoming BOS Webinars:** see the [BOS Webinar schedule](/bos_webinar/schedule.html) for dates and speakers.
 
 If you want to promote your bilevel session in a conference, please [email us](mailto:bileveloptimizationsociety@gmail.com).
