@@ -21,6 +21,8 @@ nav:
     url: /icbo/2026/submissions.html
   - title: Local Information
     url: /icbo/2026/local.html
+  - title: Special Issue
+    url: /icbo/2026/special-issue.html
 extra_style: |
   .schedule-wrapper {
     width: 100%;

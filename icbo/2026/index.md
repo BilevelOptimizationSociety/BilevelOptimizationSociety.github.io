@@ -21,6 +21,8 @@ nav:
     url: /icbo/2026/submissions.html
   - title: Local Information
     url: /icbo/2026/local.html
+  - title: Special Issue
+    url: /icbo/2026/special-issue.html
 extra_style: |
   .speakers-list {
     margin-bottom: 2.5rem;
@@ -211,6 +213,8 @@ The inaugural International Conference on Bilevel Optimization 2026 was hosted j
 The ICBO is a bi-annual conference on bilevel optimization with the goal to highlight recent advances and trends in the field. The conferences will consist of a set of invited plenary speakers as well as of sessions of contributed talks. Its aim is to bring together junior and senior researchers in the field of bilevel optimization as well as practitioners using bilevel optimization. The conference also includes short courses on relevant topics for practitioners and early-career researchers.
 
 ICBO 2026 was supported by the [Bilevel Optimization Society (BOS)](https://bileveloptimization.org/), a section of the [Mathematical Optimization Society (MOS)](http://www.mathopt.org/).
+
+**Special Issue.** On the occasion of ICBO 2026, a special issue of the *EURO Journal on Computational Optimization* devoted to [Recent Advances in Bilevel Optimization](/icbo/2026/special-issue.html) is now open for submissions.
 
 </div>
 </div>
