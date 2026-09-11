@@ -115,14 +115,14 @@ A detailed program can be found in the following [link](https://drive.google.com
 <td class="recording-cell">
 <a href="https://youtu.be/FxIJtBsRYLw" target="_blank" rel="noopener noreferrer">
 Watch recording
-</a>
+</a></td>
 </tr>
 <tr class="speaker-divider">
 <td class="speaker-cell">David Villacís (Loyola University Andalusia)</td>
 <td class="recording-cell">
 <a href="https://youtu.be/XcBEbVPl_xs" target="_blank" rel="noopener noreferrer">
 Watch recording
-</a>
+</a></td>
 </tr>
 
 <tr>
