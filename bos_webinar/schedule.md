@@ -18,7 +18,7 @@ extra_style: |
   .seminar-table {
     width: 100%;
     border-collapse: collapse;
-    table-layout: fixed;
+    table-layout: auto;
   }
 
   .seminar-table .col-date {
