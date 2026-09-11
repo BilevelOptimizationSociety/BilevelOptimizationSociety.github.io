@@ -108,7 +108,6 @@ A detailed program can be found in the following [link](https://drive.google.com
 </tr>
 </thead>
 <tbody>
-
 <tr>
 <td rowspan="2" class="date-cell">September 1, 2026</td>
 <td class="speaker-cell">Sanyou Mei (The Hong Kong University of Science and Technology)</td>
@@ -124,13 +123,11 @@ Watch recording
 Watch recording
 </a></td>
 </tr>
-
 <tr>
 <td class="date-cell">September 15, 2026</td>
 <td class="speaker-cell">José Fernando Camacho Vallejo (Tecnológico de Monterrey)</td>
 <td class="recording-cell"><span class="coming-soon">Upcoming</span></td>
 </tr>
-
 <tr>
 <td rowspan="2" class="date-cell">September 29, 2026</td>
 <td class="speaker-cell">Federico Battista (University of Southern California)</td>
@@ -140,13 +137,11 @@ Watch recording
 <td class="speaker-cell">Eneko Clemente (University of Zurich)</td>
 <td class="recording-cell"><span class="coming-soon">Upcoming</span></td>
 </tr>
-
 <tr>
 <td class="date-cell">October 13, 2026</td>
 <td class="speaker-cell">Yongjia Song (Clemson University)</td>
 <td class="recording-cell"><span class="coming-soon">Upcoming</span></td>
 </tr>
-
 <tr>
 <td rowspan="2" class="date-cell">October 27, 2026</td>
 <td class="speaker-cell">Dorothee Henke (University of Passau)</td>
@@ -156,13 +151,11 @@ Watch recording
 <td class="speaker-cell">Lasse Wulf (University of Southern Denmark)</td>
 <td class="recording-cell"><span class="coming-soon">Upcoming</span></td>
 </tr>
-
 <tr>
 <td class="date-cell">November 10, 2026</td>
 <td class="speaker-cell">Zhaosong Lu (University of Minnesota)</td>
 <td class="recording-cell"><span class="coming-soon">Upcoming</span></td>
 </tr>
-
 <tr>
 <td rowspan="2" class="date-cell">November 24, 2026</td>
 <td class="speaker-cell">Emanuele Pizzari (Consiglio Nazionale delle Ricerche)</td>
@@ -172,13 +165,11 @@ Watch recording
 <td class="speaker-cell">Vladimir Stadnichuk (University of Kassel)</td>
 <td class="recording-cell"><span class="coming-soon">Upcoming</span></td>
 </tr>
-
 <tr>
 <td class="date-cell">December 8, 2026</td>
 <td class="speaker-cell">Jacqueline Morgan (University of Naples Federico II and CSEF)</td>
 <td class="recording-cell"><span class="coming-soon">Upcoming</span></td>
 </tr>
-
 </tbody>
 </table>
 
