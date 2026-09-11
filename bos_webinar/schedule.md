@@ -91,6 +91,9 @@ extra_style: |
 
 ## Schedule of Season 2
 
+A detailed program can be found in the following [link](https://drive.google.com/file/d/1az8FJpV2F0VIJQqWjMlcEIJ79cxWCdJ2/view?usp=share_link):
+
+
 <table class="seminar-table" markdown="0">
 <colgroup>
 <col class="col-date">
