@@ -109,11 +109,17 @@ extra_style: |
 <tr>
 <td rowspan="2" class="date-cell">September 1, 2026</td>
 <td class="speaker-cell">Sanyou Mei (The Hong Kong University of Science and Technology)</td>
-<td class="recording-cell"><span class="coming-soon">Upcoming</span></td>
+<td class="recording-cell">
+<a href="https://youtu.be/FxIJtBsRYLw" target="_blank" rel="noopener noreferrer">
+Watch recording
+</a>
 </tr>
 <tr class="speaker-divider">
 <td class="speaker-cell">David Villacís (Loyola University Andalusia)</td>
-<td class="recording-cell"><span class="coming-soon">Upcoming</span></td>
+<td class="recording-cell">
+<a href="https://youtu.be/XcBEbVPl_xs" target="_blank" rel="noopener noreferrer">
+Watch recording
+</a>
 </tr>
 
 <tr>
