@@ -18,7 +18,7 @@ profile:
 
 We are happy to announce that the International Conference on Bilevel Optimization 2026 will be hosted jointly by the University of Pittsburgh and Carnegie Mellon University in August 2026. We sincerely thank Prof. Bo Zeng and Prof. Ramteen Sioshansi for serving as co-chairs of the first conference since the creation of the BOS.
 
-In this [link](/icbo/2026/index.html), you will find all the necessary information about our upcoming ICBO 2026.
+In this [link](/icbo/2026/index.html), you will find all the necessary information about our last ICBO 2026. We thank all the attendees for making this event a great conference.
 
 ### The International Conference on Bilevel Optimization
 
