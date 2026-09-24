@@ -9,7 +9,7 @@ header_subtitle: From the Bilevel Optimization Society
 last_updated: "August 14th, 2026"
 header_title: Bilevel Optimization Webinar
 header_subtitle: From the Bilevel Optimization Society
-last_updated: "August 14th, 2026"
+last_updated: "September 24th, 2026"
 nav:
   - title: Home
     url: /bos_webinar/index.html
