@@ -126,7 +126,10 @@ Watch recording
 <tr>
 <td class="date-cell">September 15, 2026</td>
 <td class="speaker-cell">José Fernando Camacho Vallejo (Tecnológico de Monterrey)</td>
-<td class="recording-cell"><span class="coming-soon">Upcoming</span></td>
+<td class="recording-cell">
+<a href="https://youtu.be/VaKYSoochAI" target="_blank" rel="noopener noreferrer">
+Watch recording
+</a></td>
 </tr>
 <tr>
 <td rowspan="2" class="date-cell">September 29, 2026</td>
@@ -145,7 +148,7 @@ Watch recording
 <tr>
 <td rowspan="2" class="date-cell">October 27, 2026</td>
 <td class="speaker-cell">Dorothee Henke (University of Passau)</td>
-<td class="recording-cell"><span class="coming-soon">Upcoming</span></td>
+<td class="recording-cell"><span class="coming-soon">Not available</span></td>
 </tr>
 <tr class="speaker-divider">
 <td class="speaker-cell">Lasse Wulf (University of Southern Denmark)</td>
