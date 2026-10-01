@@ -10,7 +10,7 @@ related_posts: false
 From August 2–5, 2026, the bilevel optimization community gathered in Pittsburgh for **ICBO 2026**, the first International Conference on Bilevel Optimization held under the umbrella of the **Bilevel Optimization Society (BOS)**.
 
 <div style="text-align: center; margin: 2rem 0;">
-  <img src="icbo/2026/images/ConferencePhoto1.jpg"
+  <img src="../icbo/2026/images/ConferencePhoto1.jpg"
        alt="ICBO 2026 participants in Pittsburgh"
        style="max-width: 100%; height: auto;">
   <p style="font-size: 0.9em; color: #666;">
