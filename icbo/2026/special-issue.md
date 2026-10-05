@@ -49,7 +49,7 @@ Bilevel optimization is a highly active field of research in mathematical optimi
 
 ## Submission
 
-Submissions should be made through the [Editorial Manager submission portal of EJCO](https://www.editorialmanager.com/ejco/). When submitting, please select the article type **"VSI: Bilevel Opt"**. All manuscripts will be subject to the standard peer-review process of the journal. Papers presented at ICBO 2026 are especially welcome.
+Submissions should be made through the [Editorial Manager submission portal of EJCO](https://www.editorialmanager.com/ejcomp/default.aspx ). When submitting, please select the article type **"VSI: Bilevel Opt"**. All manuscripts will be subject to the standard peer-review process of the journal. Papers presented at ICBO 2026 are especially welcome.
 
 ### Important Dates
 
