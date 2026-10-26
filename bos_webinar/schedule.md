@@ -134,16 +134,26 @@ Watch recording
 <tr>
 <td rowspan="2" class="date-cell">September 29, 2026</td>
 <td class="speaker-cell">Federico Battista (University of Southern California)</td>
-<td class="recording-cell"><span class="coming-soon">Upcoming</span></td>
+<td class="recording-cell">
+<a href="https://youtu.be/OLrnltwvKDU" target="_blank" rel="noopener noreferrer">
+Watch recording
+</a></td>
+</td>
 </tr>
 <tr class="speaker-divider">
 <td class="speaker-cell">Eneko Clemente (University of Zurich)</td>
-<td class="recording-cell"><span class="coming-soon">Upcoming</span></td>
+<td class="recording-cell">
+<a href="https://youtu.be/6KrCrm3uqiA" target="_blank" rel="noopener noreferrer">
+Watch recording
+</a></td>
 </tr>
 <tr>
 <td class="date-cell">October 13, 2026</td>
 <td class="speaker-cell">Yongjia Song (Clemson University)</td>
-<td class="recording-cell"><span class="coming-soon">Upcoming</span></td>
+<td class="recording-cell">
+<a href="https://youtu.be/cGKjESRi2mU" target="_blank" rel="noopener noreferrer">
+Watch recording
+</a></td>
 </tr>
 <tr>
 <td rowspan="2" class="date-cell">October 27, 2026</td>
