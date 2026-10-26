@@ -147,7 +147,7 @@ Watch recording
 </tr>
 <tr>
 <td rowspan="2" class="date-cell">October 27, 2026</td>
-<td class="speaker-cell">Dorothee Henke (University of Passau)</td>
+<td class="speaker-cell">Dorothee Henke (Johannes Kepler University Linz)</td>
 <td class="recording-cell"><span class="coming-soon">Not available</span></td>
 </tr>
 <tr class="speaker-divider">
