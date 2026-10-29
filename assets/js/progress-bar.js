@@ -46,7 +46,17 @@ function getCurrentScrollPosition() {
 }
 
 function initializeProgressElement() {
-  let navbarHeight = $("#navbar").outerHeight(true);
+  let $navbar = $("#navbar");
+  /*
+   * Some layouts (e.g. the sidebar-nav "about" layout used on the main
+   * page) hide the navbar on wider screens. jQuery's outerHeight() still
+   * reports the height the navbar *would* have if visible, which used to
+   * push the progress bar down into empty space with nothing marking that
+   * boundary — so it would appear to cut straight across the page text as
+   * it scrolled past. Only account for the navbar's height when it is
+   * actually shown.
+   */
+  let navbarHeight = $navbar.is(":visible") ? $navbar.outerHeight(true) : 0;
   $("body").css({ "padding-top": navbarHeight });
   $("progress-container").css({ "padding-top": navbarHeight });
   progressBar.css({ top: navbarHeight });
