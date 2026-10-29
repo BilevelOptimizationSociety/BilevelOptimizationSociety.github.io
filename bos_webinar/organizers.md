@@ -63,7 +63,7 @@ The current organizers are Yasmine Beck and Nagisa Sugishita. If you would like 
 
 ![Nagisa Sugishita picture](images/NagisaSugishita.jpg)
 
-<div class="descripcion">Nagisa Sugishita is a postdoctoral fellow at HEC Montréal since March 2025. He completed his PhD at the University of Edinburgh in September 2022. His research interests range from applying bilevel programming to the development of sustainable and equitable transportation systems to studying the computational complexity of bilevel optimization.</div>
+<div class="descripcion">Nagisa Sugishita is a postdoctoral fellow at HEC Montréal since March 2025. He completed his PhD at the University of Edinburgh in September 2022. His research interests range from applying bilevel programming to the development of sustainable and equitable transportation systems to studying the computational complexity of bilevel optimization.
 </div>
 
 
