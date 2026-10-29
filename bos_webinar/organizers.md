@@ -56,7 +56,7 @@ The current organizers are Yasmine Beck and Nagisa Sugishita. If you would like 
 
 ![Yasmine Beck picture](images/YasmineBeck.JPEG)
 
-<div class="descripcion">Yasmine Beck is an Assistant Professor of Operations Management at Eindhoven University of Technology since January 2026. Prior to this, she worked as a postdoctoral researcher at ESSEC Business School. Before joining ESSEC, she was a research and teaching assistant at Trier University, where she completed her PhD in December 2024. Her research interests lie at the intersection of (mixed-integer) bilevel optimization and optimization under uncertainty, with a focus on robust optimization.</div>
+<div class="descripcion">Yasmine Beck is an Assistant Professor of Operations Management at Eindhoven University of Technology since January 2026. Prior to this, she worked as a postdoctoral researcher at ESSEC Business School. Before joining ESSEC, she was a research and teaching assistant at Trier University, where she completed her PhD in December 2024. Her research interests lie at the intersection of (mixed-integer) bilevel optimization and optimization under uncertainty, with a focus on robust optimization.
 </div>
 
 <div class="foto">
