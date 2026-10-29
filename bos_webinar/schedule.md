@@ -138,7 +138,6 @@ Watch recording
 <a href="https://youtu.be/OLrnltwvKDU" target="_blank" rel="noopener noreferrer">
 Watch recording
 </a></td>
-</td>
 </tr>
 <tr class="speaker-divider">
 <td class="speaker-cell">Eneko Clemente (University of Zurich)</td>
