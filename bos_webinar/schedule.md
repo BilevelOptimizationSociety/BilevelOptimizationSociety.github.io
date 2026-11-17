@@ -166,11 +166,11 @@ Watch recording
 <tr>
 <td class="date-cell">November 10, 2026</td>
 <td class="speaker-cell">Zhaosong Lu (University of Minnesota)</td>
-<td class="recording-cell"><span class="coming-soon">Upcoming</span></td>
+<td class="recording-cell"><span class="coming-soon">Not available</span></td>
 </tr>
 <tr>
 <td rowspan="2" class="date-cell">November 24, 2026</td>
-<td class="speaker-cell">Emanuele Pizzari (Consiglio Nazionale delle Ricerche)</td>
+<td class="speaker-cell">Nagisa Sugishita (HEC Montréal)</td>
 <td class="recording-cell"><span class="coming-soon">Upcoming</span></td>
 </tr>
 <tr class="speaker-divider">
